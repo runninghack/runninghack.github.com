@@ -3,6 +3,8 @@ layout: default
 title: 《Visual Studio 程序员箴言》笔记
 ---
 
+#{{ page.title }}
+
 Ctrl+Shift+V 剪切板循环
 
 Ctrl+W 选取当前单词
