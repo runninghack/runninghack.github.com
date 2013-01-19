@@ -1,1 +1,9 @@
-baseurl: /
+root: /
+permalink: /:year-:month/:title/
+markdown: rdiscount
+pygments: true
+paginate: 5
+
+title: Ramiel's blog
+author: Ramiel
+email: "zl.ramiel@gmail.com"
