@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 《影响力》
+title: 《影响力》笔记
 ---
 
 ##{{ page.title }}
