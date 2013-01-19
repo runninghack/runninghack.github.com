@@ -3,7 +3,7 @@ layout: default
 title: 《人工智能的未来》笔记
 ---
 
-##{{ page.title }}
+#{{ page.title }}
 
 ##中文屋实验
 

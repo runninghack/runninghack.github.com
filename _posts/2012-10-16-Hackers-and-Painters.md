@@ -3,7 +3,7 @@ layout: default
 title: 《黑客与画家》笔记
 ---
 
-##{{ page.title }}
+#{{ page.title }}
 
 ##1. 为什么书呆子不受欢迎
 

@@ -3,7 +3,7 @@ layout: default
 title: 《与"众"不同的心理学》笔记
 ---
 
-##{{ page.title }}
+#{{ page.title }}
 
 ##第一章 充满活力的心理学
 

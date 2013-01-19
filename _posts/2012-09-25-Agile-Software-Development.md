@@ -3,7 +3,7 @@ layout: default
 title: 《敏捷软件开发》笔记
 ---
 
-##{{ page.title }}
+#{{ page.title }}
 
 ##第1章 敏捷实践
 

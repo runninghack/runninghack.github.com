@@ -3,7 +3,7 @@ layout: default
 title: 《精神分析引论》笔记
 ---
 
-##{{ page.title }}
+#{{ page.title }}
 
 ##第一讲 绪论
 
