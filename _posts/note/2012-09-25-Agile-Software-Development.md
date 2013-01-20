@@ -5,8 +5,6 @@ category: note
 description: 
 ---
 
-#{{ page.title }}
-
 ##第1章 敏捷实践
 
 ###敏捷宣言：

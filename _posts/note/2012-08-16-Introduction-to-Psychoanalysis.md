@@ -5,8 +5,6 @@ category: note
 description: 
 ---
 
-#{{ page.title }}
-
 ##第一讲 绪论
 
 所谓精神分析就是治疗精神病患者的一种方法。

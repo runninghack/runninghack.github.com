@@ -5,8 +5,6 @@ category: note
 description: 
 ---
 
-#{{ page.title }}
-
 ##第二章 蜂群思维
 
 2.1 蜜蜂之道：分布式管理

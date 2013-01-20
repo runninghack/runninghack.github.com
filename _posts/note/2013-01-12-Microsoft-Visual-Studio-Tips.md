@@ -5,8 +5,6 @@ category: note
 description: 
 ---
 
-#{{ page.title }}
-
 Ctrl+Shift+V 剪切板循环
 
 Ctrl+W 选取当前单词

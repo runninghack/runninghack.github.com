@@ -5,8 +5,6 @@ category: note
 description: 
 ---
 
-#{{ page.title }}
-
 ##第一章 理解亲密关系
 
 亲密关系六要素：了解、关心、依赖、相互性、信任、承诺。
