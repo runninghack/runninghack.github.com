@@ -1,9 +1,19 @@
+auto:	          true
+
 root: /
-permalink: /:year-:month/:title/
+permalink: /:title/
 markdown: rdiscount
 pygments: true
 paginate: 5
 
 title: Ramiel's blog
-author: Ramiel
+feed:             /atom.xml
+author:
+    name:         Ramiel
+    weibo:      http://weibo.com/runninghack
+description:      "Ramiel\'s Blog"
+author_info:      <a href="https://runninghack.github.com/about">Ramiel</a>
 email: "zl.ramiel@gmail.com"
+
+copyright:
+    - Design by <a href="https://runninghack.github.com/about" title="Ramiel" target="_blank">Ramiel</a> &copy; 2013
