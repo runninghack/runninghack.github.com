@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《人工智能的未来》笔记
 category: note
 description: 

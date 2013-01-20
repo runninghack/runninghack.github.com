@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《影响力》笔记
 category: note
 description: 

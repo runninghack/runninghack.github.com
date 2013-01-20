@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《黑客与画家》笔记
 category: note
 description: 

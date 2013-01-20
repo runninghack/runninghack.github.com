@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 思想最重要
 category: blog
 description: 打破传统思维，拒绝“无招胜有招”

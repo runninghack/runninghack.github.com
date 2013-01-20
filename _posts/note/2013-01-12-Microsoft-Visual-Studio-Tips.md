@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《Visual Studio 程序员箴言》笔记
 category: note
 description: 

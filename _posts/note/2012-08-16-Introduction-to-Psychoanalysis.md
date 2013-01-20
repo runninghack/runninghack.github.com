@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《精神分析引论》笔记
 category: note
 description: 

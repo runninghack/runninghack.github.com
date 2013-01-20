@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《亲密关系》笔记
 category: note
 description: 

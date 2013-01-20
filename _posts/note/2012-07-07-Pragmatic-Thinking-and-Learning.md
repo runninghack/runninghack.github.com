@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《程序员的思维修炼》笔记
 category: note
 description: 

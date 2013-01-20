@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《敏捷软件开发》笔记
 category: note
 description: 

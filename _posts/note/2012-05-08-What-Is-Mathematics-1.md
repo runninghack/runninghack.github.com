@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《什么是数学》笔记（一）
 category: note
 description: 

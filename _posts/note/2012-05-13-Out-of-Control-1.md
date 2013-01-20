@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《失控》笔记（一）
 category: note
 description: 

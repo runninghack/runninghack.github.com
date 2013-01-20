@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《与"众"不同的心理学》笔记
 category: note
 description: 

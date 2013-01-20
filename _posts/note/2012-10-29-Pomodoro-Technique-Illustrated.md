@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《番茄工作法图解》笔记
 category: note
 description: 

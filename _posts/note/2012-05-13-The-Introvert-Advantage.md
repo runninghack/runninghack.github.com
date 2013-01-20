@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 《内向者优势》笔记
 category: note
 description: 
