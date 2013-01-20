@@ -9,27 +9,23 @@ title: About Ramiel
 博客仍在不断完善中，感谢关注，如有问题可以给我<a href="" title="邮箱" onclick="alert('Ramiel 在 Gmail，你懂得！');return false;">eMail</a>，或者在<a href="http://weibo.com/runninghack" title="我的微博" target="_blank" class="external">微博</a>关注我。
 
 最近看过：
-<script type="text/javascript" src="http://www.douban.com/service/badge/LeiZhang/?show=collection&amp;n=15&amp;columns=5&amp;hidelogo=yes&amp;cat=book" ></script>
+<script type="text/javascript" src="http://www.douban.com/service/badge/LeiZhang/?show=collection&amp;n=15&amp;columns=5&amp;picsize=medium&amp;hidelogo=yes&amp;hideself=yes&amp;cat=book" ></script>
 
 <div id="disqus_container"> 
     <div id="disqus_thread"></div>
 </div> 
 
 <script type="text/javascript">
-    window.disqus_shortname = 'Ramiel'; // required: replace example with your forum shortname
+    window.disqus_shortname = 'ramiel'; // required: replace example with your forum shortname
     $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js');
 </script>
 
 
 <h3 class="about">More About Me</h3>
 <div class="about-link">
-    <a href="" title="邮箱" target="_blank" onclick="alert('Ramiel 在 Gmail，你懂得！');return false;">eMail&gt;&gt;</a>
-    <a href="" title="我的书影音" target="_blank">豆瓣&gt;&gt;</a>
-    <a href="" title="我的闲言碎语" target="_blank">新浪微博&gt;&gt;</a>
-    <a href="" title="我的代码" target="_blank">Github&gt;&gt;</a>
-    <a href="" title="又一处的闲言碎语" target="_blank">Twitter&gt;&gt;</a>
-    <a href="" title="我回答的问题" target="_blank">知乎&gt;&gt;</a>
-    <a href="" title="我收集的图片" target="_blank">Markzhi&gt;&gt;</a>
+    <a href="zl.ramiel@gmail.com" title="邮箱" target="_blank" onclick="alert('Ramiel 在 Gmail，你懂得！');return false;">eMail&gt;&gt;</a>
+    <a href="http://www.douban.com/people/LeiZhang/" title="我的豆瓣" target="_blank">豆瓣&gt;&gt;</a>
+    <a href="http://weibo.com/runninghack" title="我的微博" target="_blank">新浪微博&gt;&gt;</a>
 </div>
 
 
