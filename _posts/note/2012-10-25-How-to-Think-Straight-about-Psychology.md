@@ -2,7 +2,7 @@
 layout: post
 title: 《与"众"不同的心理学》笔记
 category: note
-description: 
+description: Keith E.Stanovich,2005-2,9787501946976
 ---
 
 ##第一章 充满活力的心理学

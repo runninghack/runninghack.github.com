@@ -2,7 +2,7 @@
 layout: post
 title: 《人工智能的未来》笔记
 category: note
-description: 
+description: Jeff Hawkins,2006-1,9787536940185
 ---
 
 ##中文屋实验

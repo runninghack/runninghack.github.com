@@ -2,7 +2,7 @@
 layout: post
 title: 《Visual Studio 程序员箴言》笔记
 category: note
-description: 作者：福特;出版年：2010-1;ISBN：9787115215727
+description: 福特,2010-1,9787115215727
 ---
 
 Ctrl+Shift+V 剪切板循环

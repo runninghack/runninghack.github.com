@@ -2,7 +2,7 @@
 layout: post
 title: 《黑客与画家》笔记
 category: note
-description: 
+description: Paul Graham,2011-4,9787115249494
 ---
 
 ##1. 为什么书呆子不受欢迎
