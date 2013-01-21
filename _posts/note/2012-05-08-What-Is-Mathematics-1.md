@@ -2,7 +2,7 @@
 layout: post
 title: 《什么是数学》笔记（一）
 category: note
-description: 
+description: Richard Courant,2005-5,9787309044546
 ---
 
 1. 负数、分数以及其他一些非自然数所服从的定义是不能被“证明”的，它们是我们“创造”出来的，为的是在保持算数基本规律的条件下使运算能够自如。

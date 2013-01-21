@@ -2,7 +2,7 @@
 layout: post
 title: 《Visual Studio 程序员箴言》笔记
 category: note
-description: 福特,2010-1,9787115215727
+description: Sara Ford,2010-1,9787115215727
 ---
 
 Ctrl+Shift+V 剪切板循环

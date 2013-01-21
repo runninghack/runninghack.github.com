@@ -2,7 +2,7 @@
 layout: post
 title: 《失控》笔记（一）
 category: note
-description: 
+description: Kevin Kelly,2010-12,9787513300711
 ---
 
 ##第二章 蜂群思维

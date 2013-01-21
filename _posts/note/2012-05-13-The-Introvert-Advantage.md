@@ -2,7 +2,7 @@
 layout: post
 title: 《内向者优势》笔记
 category: note
-description: 
+description:  Marti Olsen Laney,2008-1,9787561757819
 ---
 
 1. 性格外向和内向的人的比率为3:1，原来有这么大！
