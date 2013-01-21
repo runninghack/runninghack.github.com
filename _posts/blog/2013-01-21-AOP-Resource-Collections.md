@@ -1,8 +1,8 @@
 ---
-layout:	post
-title:	AOP学习和研究资料
-category:	blog
-description:	感兴趣的一些AOP资料整理
+layout: post
+title: AOP学习和研究资料
+category: blog
+description: 感兴趣的一些AOP资料整理
 ---
 
 [AOP技术基础](http://wayfarer.cnblogs.com/articles/241024.html)
