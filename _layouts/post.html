@@ -5,7 +5,7 @@ layout: page
 <div class="entry">
 
     <h1><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
-    <p>{{ page.date|date:"%Y-%m-%d" }} By <a href="http://runninghack.github.com/about">Ramiel</a></p>
+    <p>{{ page.date|date:"%Y-%m-%d" }} - {{ page.category }}</p>
 
     {{ content }}
     
@@ -44,14 +44,13 @@ layout: page
         $('pre').addClass('prettyprint linenums') //添加Google code Hight需要的class
 
         //***********************
-        //**评论的代码也删掉哦***
+        //**评论的代码***
         window.disqus_shortname = 'ramiel'; // required: replace example with your forum shortname
         $('#disqus_container .comment').on('click',function(){
             $(this).html('加载中...');
             var that = this;
             $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
         });
-        //**评论的代码也删掉哦***
         //***********************
 
         $('.entry a').each(function(index,element){
