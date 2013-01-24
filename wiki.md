@@ -5,11 +5,11 @@ title: Ramiel's Wiki
 
 #编程
 
-    * 编程语言：C | C++ | C# | Java | Lisp
+* 编程语言：C | C++ | C# | Java | Lisp
 
-- 编程范式：函数式编程 | 面向切面编程 | 面向对象编程
+* 编程范式：函数式编程 | 面向切面编程 | 面向对象编程
 
-- 编程工具：Visual Stuido | Eclipse | VIM | Source Insight | [Submate Text 2](#) | 
+* 编程工具：Visual Stuido | Eclipse | VIM | Source Insight | [Submate Text 2](#) | 
 
 
 #复杂网络
@@ -18,12 +18,13 @@ title: Ramiel's Wiki
 
 #工具使用
 
-- Windows | CentOS | OpenSUSE
+* Windows | CentOS | OpenSUSE
     
     > 1. 字体
+    
     > 主题
     
-- Git |  | Jekyll | 
+* Git |  | Jekyll | 
 
 硬件
 ---
