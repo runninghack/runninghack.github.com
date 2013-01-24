@@ -1,27 +1,32 @@
 ---
-layout: page
-title: About Ramiel
+layout: wikipage
+title: Ramiel's Wiki
 ---
 
-#计算机
+#编程
 
-##编程语言
+- 编程语言：C | C++ | C# | Java | Lisp
 
-C | C++ C# Java Lisp
+- 编程范式：函数式编程 | 面向切面编程 | 面向对象编程
 
-编程范式
+- 编程工具：Visual Stuido | Eclipse | VIM | Source Insight | [Submate Text 2](#) | 
 
-函数式编程
 
-书单
+#复杂网络
 
-##复杂网络
+#数据库
 
-##数据库
+#工具使用
 
-##工具使用
+- Windows | CentOS | OpenSUSE
+    
+    > 字体
+    
+    > 主题
+    
+- Git |  | Jekyll | 
 
-Git | [Submate Text 2](#) |
+硬件
 ---
 
 #心理学

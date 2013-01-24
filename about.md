@@ -2,19 +2,20 @@
 layout: page
 title: About Ramiel
 ---
-# [Ramiel][]
+# Ramiel
 
-我是'Ramiel'，是一名软件工程专业研究生。博客刚刚启用，许多页面未完成，請勿见怪。
+我是 'Ramiel' ，是一名软件工程专业研究生。博客刚刚启用，许多页面未完成，請勿见怪。
 
 性格：【Geek】√【INTJ】√
 
 爱好：【读书】√【长跑】√【ACG】√【科普】√
 
-[eMail](zl.ramiel@gmail.com)，
+
+<a href="zl.ramiel@gmail.com" title="eMail" target="_blank" class="external">我的邮箱</a>
 
 <a href="http://weibo.com/runninghack" title="我的微博" target="_blank" class="external">新浪微博</a>
 
-<a href="http://www.douban.com/people/LeiZhang/" title="我的豆瓣" target="_blank">豆瓣&gt;&gt;</a>
+<a href="http://www.douban.com/people/LeiZhang/" title="我的豆瓣" target="_blank" class="external">豆瓣</a>
 
 
 
