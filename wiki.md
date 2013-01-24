@@ -5,7 +5,7 @@ title: Ramiel's Wiki
 
 #编程
 
-* 编程语言：C | C++ | C# | Java | Lisp
+    * 编程语言：C | C++ | C# | Java | Lisp
 
 - 编程范式：函数式编程 | 面向切面编程 | 面向对象编程
 
@@ -20,8 +20,7 @@ title: Ramiel's Wiki
 
 - Windows | CentOS | OpenSUSE
     
-    > 字体
-    
+    > 1. 字体
     > 主题
     
 - Git |  | Jekyll | 
