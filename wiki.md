@@ -1,5 +1,5 @@
 ---
-layout: wikipage
+layout: wiki
 title: Ramiel's Wiki
 ---
 
