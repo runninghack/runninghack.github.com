@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 《搞定I:无压工作的艺术》
+title: 《搞定I:无压工作的艺术》笔记
 category: note
-description: 
+description: David Allen, 2010-5, 9787508618944
 ---
 
 ##第一章 新情况，新做法
