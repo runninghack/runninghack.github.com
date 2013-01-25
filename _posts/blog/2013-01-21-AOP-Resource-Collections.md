@@ -1,8 +1,8 @@
 ---
 layout: post
-title: AOP学习和研究资料
+title: 面向切面编程资料
 category: blog
-description: 感兴趣的一些AOP资料整理
+description: wiki of AOP
 ---
 
 [AOP技术基础](http://wayfarer.cnblogs.com/articles/241024.html)
