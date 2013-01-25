@@ -1,20 +1,27 @@
 ---
 layout: wiki
-title: Ramiel's Wiki
+title: Wiki List
 ---
 
 #编程
 
-* 编程语言：C | C++ | C# | Java | Lisp
+* C | C++ | C# | Java | Lisp | [Node.JS](/NodeJS/) | JavaScript | Go
 
-* 编程范式：<a href="/Functional-Programming/"  target="_blank" class="external">函数式编程</a> | <a href="/AOP-Resource-Collections/"  target="_blank" class="external">面向切面编程</a> | 面向对象编程
+* <a href="/Functional-Programming/"  target="_blank" class="external">函数式编程</a> | <a href="/AOP-Resource-Collections/"  target="_blank" class="external">面向切面编程</a> | 面向对象编程
 
 * 编程工具：Visual Stuido | Eclipse | VIM | Source Insight | [Submate Text 2](#) | 
 
 * 算法
 
+    《算法导论》《TAOCP》《具体数学》
+
 * T4引擎：[编写 T4 文本模板](http://msdn.microsoft.com/zh-cn/library/bb126478) | [T4模版引擎之基础入门](http://www.189works.com/article-80505-1.html) | [代码生成和T4文本模板](http://msdn.microsoft.com/zh-cn/library/bb126445.aspx) | [使用T4文本模板生成设计时代码](http://msdn.microsoft.com/zh-cn/library/dd820620) | [使用T4文本模板的运行时文本生成](http://msdn.microsoft.com/zh-cn/library/ee844259)
 
+* [《黑客与画家》](/Hackers-and-Painters/)《设计原本》《人月神话》[《程序员的思维修炼》](/Pragmatic-Thinking-and-Learning/)[《敏捷软件开发》](/Agile-Software-Development/)《敏捷开发的艺术》《人件》
+
+* 《哥德尔、艾舍尔、巴赫》
+
+* 《Web数据挖掘》《数据可视化之美》《大数据》
 ---
 
 #学术研究
@@ -25,9 +32,15 @@ title: Ramiel's Wiki
     
     > [Networkx](http://www.oschina.net/question/54100_77522) | 
     
+    > 《六度分隔》《小小世界》《大连接》
+    
 * 社会分析
+
+    > 《Social Network Analysis for Startups》《社交网站的数据挖掘与分析》《Machine Learning for Hackers》
     
 * 复杂科学
+
+    > 《复杂》《隐秩序》[《失控》](/Out-of-Control-1/)《合作的复杂性》《涌现》《复杂系统与复杂网络》
 
 ---
 
@@ -55,13 +68,15 @@ title: Ramiel's Wiki
 
 * 心理学：
 
-    >《影响力》《亲密关系》《意志力》《内向者优势》《极端的人群》《与众不同的心理学》《思维改变生活》《别做聪明的傻瓜》《拖延心理学》
+    >[《影响力》](/Influence/)[《亲密关系》](/Intimate-Relationships/)《意志力》[《内向者优势》](/The-Introvert-Advantage/)《极端的人群》[《与众不同的心理学》](/How-to-Think-Straight-about-Psychology/)《思维改变生活》《别做聪明的傻瓜》《拖延心理学》[《精神分析引论》](/Introduction-to-Psychoanalysis/)《思维改变生活》
     
     > [褪墨](http://www.mifengtd.cn/)
 
-* 《人工只能的未来》《追寻记忆的痕迹》
+* [《人工智能的未来》](/On-Intelligence/)《追寻记忆的痕迹》《找寻逝去的自我》《思维导图》
 
 * MBTI | Big Five
+
+* 《搞定》《番茄工作法图解》《整理的艺术》《暗时间》《让天赋自由》《高效能人士的七个习惯》
 
 ---
 
@@ -77,19 +92,31 @@ title: Ramiel's Wiki
     
     > [Banach–Tarski paradox](http://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) | [Smale's paradox](http://en.wikipedia.org/wiki/Smale%27s_paradox)
     
+    > [《离散数学及其应用》](Discrete-Mathematics-and-Its-Applications/) | [《什么是数学》](/What-Is-Mathematics-1/) | 《数理哲学导论》《数学之美》《怎样解题》
+    
 * 哲学
 
     > [哈佛哲学百科](http://plato.stanford.edu/contents.html)
     
+    > 《西方哲学史》《苏菲的世界》《爱与意志》《社会契约论》《论人与人之间不平等的起因和基础》
+    
+---
+    
 # 科普
 
-    > [星际旅行漫谈](http://www.changhai.org/articles/science/astronomy/voyage/)
+    * [星际旅行漫谈](http://www.changhai.org/articles/science/astronomy/voyage/)
+    
+    * 《金枝》《时间简史》《从一到无穷大》《物理世界奇遇记》《上帝掷骰子吗》《基因组》
+
+---
 
 #爱好和娱乐
 
 * 跑步
 
     > [跑步圣经](http://bbs.runbible.cn/) | [Mizuno脚型测试](http://www.mizunorunlife.com/foottype/index.aspx)
+    
+    > 《当我谈跑步时，我谈些什么》
 
 * 音乐
 
@@ -107,7 +134,7 @@ title: Ramiel's Wiki
     
 * 艺术 | DIY
 
-    > [warrenlouw 绘画过程图 ](http://blog.sina.com.cn/s/blog_6bafa28a0102emwq.html) | Traveler'sNotebook教程 [1](Traveler'sNotebook教程),[2](http://site.douban.com/149473/widget/notes/7555688/note/208643450/) | 
+    > [warrenlouw 绘画过程图 ](http://blog.sina.com.cn/s/blog_6bafa28a0102emwq.html) | Traveler'sNotebook教程 [1](Traveler'sNotebook教程),[2](http://site.douban.com/149473/widget/notes/7555688/note/208643450/) | 《五天学会绘画》
     
 * 游戏
 
