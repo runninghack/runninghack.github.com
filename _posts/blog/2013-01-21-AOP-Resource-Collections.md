@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 面向切面编程资料
+title: 面向切面编程
 category: blog
 description: wiki of AOP
 ---

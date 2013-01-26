@@ -5,30 +5,43 @@ title: Wiki List
 
 #编程
 
-* C | C++ | C# | Java | Lisp | [Node.JS](/NodeJS/) | JavaScript | Go
+* [C/C++](/C) | [C#/.NET/Mono](/CSharp/) | [Java](/Java) | [Lisp](/Lisp/) | [Node.JS](/NodeJS/) | JavaScript | [Go](/Go/) | [Python](/Python/) 
 
-* <a href="/Functional-Programming/"  target="_blank" class="external">函数式编程</a> | <a href="/AOP-Resource-Collections/"  target="_blank" class="external">面向切面编程</a> | 面向对象编程
+* [HTML5/WebSocket](/HTML5/)
 
-* 编程工具：Visual Stuido | Eclipse | VIM | Source Insight | [Submate Text 2](#) | 
+* [函数式编程][FP] | [面向切面编程](/AOP-Resource-Collections/) | 面向对象编程
+
+[FP]:/Functional-Programming/
+
+* [高阶函数][FP] | [惰性求值][FP] | [尾递归][FP] | [单子][] | [λ演算][FP] | [闭包][FP] | [柯里化][FP] | [Y组合子]()
+
+* 《APUE》[《SICP》](http://sicp.org.ua/sicp/FrontPage)
+
+* 编程工具：Visual Stuido | Eclipse | [Vim](/Vim/) | Source Insight | [Submate Text 2](/Sublime-Text-2/) | 
 
 * 算法
 
-    《算法导论》《TAOCP》《具体数学》
+    > 《算法导论》《TAOCP》《具体数学》
+    
+    > [设计模式](http://www.oschina.net/translate/how-i-explained-design-patterns-to-my-wife-part-1) | [SOLID](http://www.aqee.net/s-o-l-i-d-class-design-principles/) | MDA
+    
+    > [Ranking](http://www.cnblogs.com/zhengyun_ustc/archive/2010/12/15/amir.html)
 
 * T4引擎：[编写 T4 文本模板](http://msdn.microsoft.com/zh-cn/library/bb126478) | [T4模版引擎之基础入门](http://www.189works.com/article-80505-1.html) | [代码生成和T4文本模板](http://msdn.microsoft.com/zh-cn/library/bb126445.aspx) | [使用T4文本模板生成设计时代码](http://msdn.microsoft.com/zh-cn/library/dd820620) | [使用T4文本模板的运行时文本生成](http://msdn.microsoft.com/zh-cn/library/ee844259)
 
 * [《黑客与画家》](/Hackers-and-Painters/)《设计原本》《人月神话》[《程序员的思维修炼》](/Pragmatic-Thinking-and-Learning/)[《敏捷软件开发》](/Agile-Software-Development/)《敏捷开发的艺术》《人件》
 
-* 《哥德尔、艾舍尔、巴赫》
+* [《哥德尔、艾舍尔、巴赫》](http://blog.hanyan.me/2011/12/geb/)
 
 * 《Web数据挖掘》《数据可视化之美》《大数据》
+
 ---
 
 #学术研究
 
 * 复杂网络
 
-    > [机构与大牛](http://blog.sciencenet.cn/blog-583335-477254.html) | [读物](http://blog.sciencenet.cn/blog-3075-549946.html)
+    > [机构与大牛](http://blog.sciencenet.cn/blog-583335-477254.html) | [读物](http://blog.sciencenet.cn/blog-3075-549946.html) | [生命游戏](http://www.bitstorm.org/gameoflife/code/) | [元胞自动机](http://luobo.ycool.com/archive.57000.html)
     
     > [Networkx](http://www.oschina.net/question/54100_77522) | 
     
@@ -41,6 +54,8 @@ title: Wiki List
 * 复杂科学
 
     > 《复杂》《隐秩序》[《失控》](/Out-of-Control-1/)《合作的复杂性》《涌现》《复杂系统与复杂网络》
+    
+* 时空数据挖掘/处理 | 位置服务
 
 ---
 
@@ -92,7 +107,7 @@ title: Wiki List
     
     > [Banach–Tarski paradox](http://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) | [Smale's paradox](http://en.wikipedia.org/wiki/Smale%27s_paradox)
     
-    > [《离散数学及其应用》](Discrete-Mathematics-and-Its-Applications/) | [《什么是数学》](/What-Is-Mathematics-1/) | 《数理哲学导论》《数学之美》《怎样解题》
+    > [《离散数学及其应用》](/Discrete-Mathematics-and-Its-Applications/) | [《什么是数学》](/What-Is-Mathematics-1/) | 《数理哲学导论》《数学之美》《怎样解题》
     
 * 哲学
 
@@ -104,9 +119,9 @@ title: Wiki List
     
 # 科普
 
-    * [星际旅行漫谈](http://www.changhai.org/articles/science/astronomy/voyage/)
+* [星际旅行漫谈](http://www.changhai.org/articles/science/astronomy/voyage/)
     
-    * 《金枝》《时间简史》《从一到无穷大》《物理世界奇遇记》《上帝掷骰子吗》《基因组》
+* 《金枝》《时间简史》《从一到无穷大》《物理世界奇遇记》《上帝掷骰子吗》《基因组》
 
 ---
 
