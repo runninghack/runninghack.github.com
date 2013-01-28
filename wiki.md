@@ -120,6 +120,8 @@ title: Wiki List
 # 科普
 
 * [星际旅行漫谈](http://www.changhai.org/articles/science/astronomy/voyage/)
+
+* 信仰/宗教
     
 * 《金枝》《时间简史》《从一到无穷大》《物理世界奇遇记》《上帝掷骰子吗》《基因组》
 
@@ -129,28 +131,41 @@ title: Wiki List
 
 * 跑步
 
-    > [跑步圣经](http://bbs.runbible.cn/) | [Mizuno脚型测试](http://www.mizunorunlife.com/foottype/index.aspx)
+    > [跑步圣经论坛](http://bbs.runbible.cn/) | [Mizuno脚型测试](http://www.mizunorunlife.com/foottype/index.aspx)
     
-    > 《当我谈跑步时，我谈些什么》
+    > 《当我谈跑步时，我谈些什么》| 《跑步圣经》
+    
+    > 训练计划 | 原理 | 跑步装备 | 饮食 | 创伤处理 | 赛事
 
 * 音乐
 
     > [古典音乐入门](http://www.xici.net/d59817894.htm) 
+    
+    > 哥特金属 | 力量金属 | Punk | Pop | 旋律金属 
+    
+    > 耳机 | 耳放 | PC Hifi | 前端
 
 * ACG
 
-* 装修
+* 生活/工作环境优化
 
     > [二手房装修](http://www.xici.net/d127891640.htm)
+    
+    > 颜色 | 木工 | 电工
+    
+    > 绿植 | 
+    
+    > 整理法
     
 * 旅游
 
     > [穷游18国经验](http://bbs.qdqss.cn/forum.php?mod=viewthread&tid=55842&extra=&page=1)
     
+    > 川藏线骑行
+    
+    > 郎木寺 | 肇兴 | 西江 | 周庄 | 香格里拉 | 丽江 | 
+    
 * 艺术 | DIY
 
     > [warrenlouw 绘画过程图 ](http://blog.sina.com.cn/s/blog_6bafa28a0102emwq.html) | Traveler'sNotebook教程 [1](Traveler'sNotebook教程),[2](http://site.douban.com/149473/widget/notes/7555688/note/208643450/) | 《五天学会绘画》
     
-* 游戏
-
-    > 
