@@ -3,6 +3,8 @@ layout: wiki
 title: Wiki List
 ---
 
+*这里是Ramiel的个人wiki，刚刚建立，不定期编辑*
+
 #编程
 
 * [C/C++](/C) | [C#/.NET/Mono](/CSharp/) | [Java](/Java) | [Lisp](/Lisp/) | [Node.JS](/NodeJS/) | JavaScript | [Go](/Go/) | [Python](/Python/) 
