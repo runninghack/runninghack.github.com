@@ -85,7 +85,7 @@ title: Wiki List
 
 * 心理学：
 
-    >[《影响力》](/Influence/)[《亲密关系》](/Intimate-Relationships/)《意志力》[《内向者优势》](/The-Introvert-Advantage/)《极端的人群》[《与众不同的心理学》](/How-to-Think-Straight-about-Psychology/)《思维改变生活》《别做聪明的傻瓜》《拖延心理学》[《精神分析引论》](/Introduction-to-Psychoanalysis/)《思维改变生活》
+    >[《影响力》](/Influence/)[《亲密关系》](/Intimate-Relationships/)《意志力》[《内向者优势》](/The-Introvert-Advantage/)《极端的人群》[《与众不同的心理学》](/How-to-Think-Straight-about-Psychology/)《思维改变生活》《别做聪明的傻瓜》《拖延心理学》[《精神分析引论》](/Introduction-to-Psychoanalysis/)《思维改变生活》| [《天资差异》](/Gifts-Differing/)
     
     > [褪墨](http://www.mifengtd.cn/)
 
