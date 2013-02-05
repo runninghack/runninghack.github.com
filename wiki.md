@@ -3,7 +3,7 @@ layout: wiki
 title: Wiki List
 ---
 
-*这里是Ramiel的个人wiki，刚刚建立，不定期编辑*
+*建立个人wiki是一项浩大的工程，Ramiel的个人wiki刚刚建立，不求全责备，只作为知识管理功能添加Ramiel感兴趣和了解的内容*
 
 #编程
 
@@ -15,7 +15,7 @@ title: Wiki List
 
 [FP]:/Functional-Programming/
 
-* [高阶函数][FP] | [惰性求值][FP] | [尾递归][FP] | [单子][] | [λ演算][FP] | [闭包][FP] | [柯里化][FP] | [Y组合子]()
+* [高阶函数][FP] | [惰性求值][FP] | [尾递归][FP] | [单子]() | [λ演算][FP] | [闭包][FP] | [柯里化][FP] | [Y组合子]()
 
 * 《APUE》[《SICP》](http://sicp.org.ua/sicp/FrontPage)
 
@@ -28,6 +28,8 @@ title: Wiki List
     > [设计模式](http://www.oschina.net/translate/how-i-explained-design-patterns-to-my-wife-part-1) | [SOLID](http://www.aqee.net/s-o-l-i-d-class-design-principles/) | MDA
     
     > [Ranking](http://www.cnblogs.com/zhengyun_ustc/archive/2010/12/15/amir.html)
+    
+    > 《Unix编程艺术》
 
 * T4引擎：[编写 T4 文本模板](http://msdn.microsoft.com/zh-cn/library/bb126478) | [T4模版引擎之基础入门](http://www.189works.com/article-80505-1.html) | [代码生成和T4文本模板](http://msdn.microsoft.com/zh-cn/library/bb126445.aspx) | [使用T4文本模板生成设计时代码](http://msdn.microsoft.com/zh-cn/library/dd820620) | [使用T4文本模板的运行时文本生成](http://msdn.microsoft.com/zh-cn/library/ee844259)
 
@@ -65,19 +67,21 @@ title: Wiki List
 
 * Git | Vimwiki | Jekyll | Gogagent | Chrome | 
 
+* TC | 
+
 * Windows
     
     > 字体 | 主题
     
-    > Internet Download Manager
+    > 常用软件：Internet Download Manager
     
-* Linux: CentOS | OpenSUSE
+* Linux: CentOS | OpenSUSE | Ubuntu | Arch |
 
     > Shell
     
-    > Chmsee | Comix | 
+    > 常用软件：Chmsee | Comix | 
     
-
+	> 桌面：Enlightenment | Gnome | KDE | Xfce
 
 ---
 
@@ -85,11 +89,13 @@ title: Wiki List
 
 * 心理学：
 
-    >[《影响力》](/Influence/)[《亲密关系》](/Intimate-Relationships/)《意志力》[《内向者优势》](/The-Introvert-Advantage/)《极端的人群》[《与众不同的心理学》](/How-to-Think-Straight-about-Psychology/)《思维改变生活》《别做聪明的傻瓜》《拖延心理学》[《精神分析引论》](/Introduction-to-Psychoanalysis/)《思维改变生活》| [《天资差异》](/Gifts-Differing/)
+    > [《影响力》](/Influence/)|[《亲密关系》](/Intimate-Relationships/)|《意志力》|《自控力》|[《内向者优势》](/The-Introvert-Advantage/)|《极端的人群》[《与众不同的心理学》](/How-to-Think-Straight-about-Psychology/)《思维改变生活》《别做聪明的傻瓜》《拖延心理学》[《精神分析引论》](/Introduction-to-Psychoanalysis/)《思维改变生活》| [《天资差异》](/Gifts-Differing/) | 《请理解我》| 《人格类型》
     
     > [褪墨](http://www.mifengtd.cn/)
+    
+    > 弗洛伊德 | 荣格
 
-* [《人工智能的未来》](/On-Intelligence/)《追寻记忆的痕迹》《找寻逝去的自我》《思维导图》
+* [《人工智能的未来》](/On-Intelligence/)《追寻记忆的痕迹》《找寻逝去的自我》《思维导图》《惊人的假说》
 
 * MBTI | Big Five
 
@@ -115,17 +121,32 @@ title: Wiki List
 
     > [哈佛哲学百科](http://plato.stanford.edu/contents.html)
     
+    > 维特根斯坦 | 罗素 | 黑格尔 | 康德 | 歌德尔 | 尼采 | 海德格尔 | 克尔凯郭尔 | 笛卡尔 | 卢梭
+    
     > 《西方哲学史》《苏菲的世界》《爱与意志》《社会契约论》《论人与人之间不平等的起因和基础》
     
 ---
     
-# 科普
+# 其他学科
 
-* [星际旅行漫谈](http://www.changhai.org/articles/science/astronomy/voyage/)
+* 物理
+	> [星际旅行漫谈](http://www.changhai.org/articles/science/astronomy/voyage/)
+	
+	> 《物理世界奇遇记》《上帝掷骰子吗》《时间简史》《从一到无穷大》
 
 * 信仰/宗教
+
+	《上帝的语言》|《上帝的迷思》|《金枝》
     
-* 《金枝》《时间简史》《从一到无穷大》《物理世界奇遇记》《上帝掷骰子吗》《基因组》
+* 生物
+
+	《基因组-人体自传23章》《细胞生命的礼赞》《自私的基因》
+
+* 经济
+	
+	> 保罗·萨缪尔森 | N·格雷戈里·曼昆 | 米尔顿·弗里德曼
+	
+	> 微观经济学 | 宏观经济学
 
 ---
 
