@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 《失控》笔记（一）
+title: 《失控》笔记
 category: note
-description: Kevin Kelly,2010-12,9787513300711
+description: Kevin Kelly,2010-12,9787513300711,自购图书
+tags: ["读书笔记", "复杂科学"]
 ---
 
 ##第二章 蜂群思维

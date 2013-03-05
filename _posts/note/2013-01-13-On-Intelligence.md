@@ -2,7 +2,8 @@
 layout: post
 title: 《人工智能的未来》笔记
 category: note
-description: Jeff Hawkins,2006-1,9787536940185
+description: Jeff Hawkins,2006-1,9787536940185,借自图书馆
+tags: ["读书笔记", "心理学", "认知科学"]
 ---
 
 ##第一章 中文屋实验

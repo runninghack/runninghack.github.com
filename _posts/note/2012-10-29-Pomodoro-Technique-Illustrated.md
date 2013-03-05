@@ -2,7 +2,8 @@
 layout: post
 title: 《番茄工作法图解》笔记
 category: note
-description: Staffan Nöteberg,2011-2,9787115246691
+description: Staffan Nöteberg,2011-2,9787115246691,自购图书
+tags: ["读书笔记", "个人提升"]
 ---
 
 很多人有这样的经验：坐长途汽车的时候看书、走路的时候背单词等，效率非同寻常。这是因为时间相对固定，活动单一、目标单一。

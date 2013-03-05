@@ -2,7 +2,8 @@
 layout: post
 title: 《黑客与画家》笔记
 category: note
-description: Paul Graham,2011-4,9787115249494
+description: Paul Graham,2011-4,9787115249494,借自图书馆
+tags: ["读书笔记", "杂文集"]
 ---
 
 ##1. 为什么书呆子不受欢迎

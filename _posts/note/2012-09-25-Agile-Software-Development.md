@@ -2,7 +2,8 @@
 layout: post
 title: 《敏捷软件开发》笔记
 category: note
-description: Robert C. Martin,2008-1,9787115165756
+description: Robert C. Martin,2008-1,9787115165756,借自图书馆
+tags: ["读书笔记", "编程"]
 ---
 
 ##第1章 敏捷实践

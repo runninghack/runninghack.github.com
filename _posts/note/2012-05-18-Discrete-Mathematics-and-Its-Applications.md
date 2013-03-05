@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 《离散数学及其应用》笔记（一）
+title: 《离散数学及其应用》笔记
 category: note
-description: Kenneth H.Rosen,2007-6,9787111203261
+description: Kenneth H.Rosen,2007-6,9787111203261,自购图书
+tags: ["读书笔记", "数学"]
 ---
 
 ##第一章 基础：逻辑和证明

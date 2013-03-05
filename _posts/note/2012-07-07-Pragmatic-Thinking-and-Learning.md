@@ -2,7 +2,8 @@
 layout: post
 title: 《程序员的思维修炼》笔记
 category: note
-description: Andy Hunt,2010-12,9787115242334
+description: Andy Hunt,2010-12,9787115242334,自购图书
+tags: ["读书笔记", "编程"]
 ---
 
 ##本书的主旨：

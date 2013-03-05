@@ -2,7 +2,8 @@
 layout: post
 title: 《Visual Studio 程序员箴言》笔记
 category: note
-description: Sara Ford,2010-1,9787115215727
+description: Sara Ford,2010-1,9787115215727,借自图书馆
+tags: ["读书笔记", "工具使用"]
 ---
 
 Ctrl+Shift+V 剪切板循环

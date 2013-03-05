@@ -2,7 +2,8 @@
 layout: post
 title: 《精神分析引论》笔记
 category: note
-description: Sigmund Freud,2007-10,9787200069785
+description: Sigmund Freud,2007-10,9787200069785,自购图书
+tags: ["读书笔记", "心理学"]
 ---
 
 ##第一讲 绪论

@@ -2,7 +2,8 @@
 layout: post
 title: 《亲密关系》笔记
 category: note
-description: Sharon Stephens Brehm,2005-10,9787115138798
+description: Sharon Stephens Brehm,2005-10,9787115138798,自购图书
+tags: ["读书笔记", "心理学"]
 ---
 
 ##第一章 理解亲密关系

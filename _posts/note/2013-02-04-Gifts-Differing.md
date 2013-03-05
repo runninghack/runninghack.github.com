@@ -2,7 +2,8 @@
 layout: post
 title: 《天资差异》笔记
 category: note
-description: Isabel Briggs Myers, 2008-1, 9787536692008
+description: Isabel Briggs Myers, 2008-1,9787536692008,电子版
+tags: ["读书笔记", "心理学"]
 ---
 
 ##什么是MBTI
