@@ -2,7 +2,7 @@
 layout: post
 title: 社会人和精英
 category: blog
-description: 我的价值观的重要体现
+description: 我激进的价值观
 ---
 
 世界上的人可以分为两个阶层。
