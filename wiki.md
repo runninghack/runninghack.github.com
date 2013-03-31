@@ -19,7 +19,9 @@ title: Wiki List
 
 * 《APUE》[《SICP》](http://sicp.org.ua/sicp/FrontPage)
 
-* 编程工具：Visual Stuido | Eclipse | [Vim](/Vim/) | Source Insight | [Submate Text 2](/Sublime-Text-2/) | 
+* 编程工具：Visual Stuido | Eclipse | [Vim](/Vim/) | Source Insight | [Submate Text 2](/Sublime-Text-2/) | [Emacs](/emacs)
+
+* bash | awk | doxygen | sed | grep | 
 
 * 算法
 
@@ -65,9 +67,11 @@ title: Wiki List
 
 #操作系统和软件
 
-* Git | Vimwiki | Jekyll | Gogagent | Chrome | 
+* Git | Vimwiki | Jekyll | GoAgent | Chrome | 
 
-* TC | 
+* TC | CVS | Clover
+
+* [Tex](/tex) | LaTex | BibTex | Beamer
 
 * Windows
     
