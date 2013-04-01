@@ -26,6 +26,8 @@ title: About Ramiel
 - Social Network Analysis,
 - LSD ( Long, Slow Distance ).
 
+***
+
 如果只能选择一项，我只选择那个叫做`天命`（the Element）的东西，其他都可以不要。
 
 `要想有soulmate，首先自己得有soul。`
