@@ -6,17 +6,25 @@ title: About Ramiel
 
 我是 `Ramiel` ，是一名软件工程专业研究生。
 
-* 我的性格：
-	
-	> 【Geek】√
-	> 【INTJ】√
 
-* 我的爱好：
+##Personality: 
 
-	> 【读书】√
-	> 【长跑】√
-	> 【科普】√
-	> 【ACG】√
+- Myers Briggs Type: INTJ.
+- Introverted, not faint-hearted.
+- Uncontrollable critical.
+- Highly sensitive.
+- Perfectionist. (mild) 
+- Geek → Nerd.
+
+##Recently interested in:
+
+- Programming Language Theory,
+- Psychology, 
+- Cognitive Science, 
+- History of Mathematics and Philosophy,
+- Symbolic Logic, 
+- Social Network Analysis,
+- LSD ( Long, Slow Distance ).
 
 `要想有soulmate，首先自己得有soul。`
 
