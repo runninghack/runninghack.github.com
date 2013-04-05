@@ -2,7 +2,7 @@
 layout: post
 title: 社会人和精英
 category: blog
-description: 我激进的价值观
+description: 名词解释
 ---
 
 世界上的人可以分为两个阶层。
