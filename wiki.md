@@ -45,8 +45,6 @@ title: Wiki List
 * MDA
 * [Ranking](http://www.cnblogs.com/zhengyun_ustc/archive/2010/12/15/amir.html)
 
----
-
 #学术研究
 
 ##复杂网络
@@ -66,8 +64,6 @@ title: Wiki List
 * 混沌 
     
 ##时空数据挖掘/处理，位置服务
-
----
 
 #操作系统和软件
 
@@ -93,8 +89,6 @@ title: Wiki List
 * Linux
 * 字体
 
----
-
 #心理学与认知科学
 
 ##心理学：
@@ -111,8 +105,6 @@ title: Wiki List
 ##GTD
 
 * [褪墨](http://www.mifengtd.cn/)
-
----
 
 #思维科学
 
@@ -141,8 +133,6 @@ title: Wiki List
 * 克尔凯郭尔
 * 笛卡尔
 * 卢梭
-    
----
     
 # 其他学科
 

@@ -2,7 +2,7 @@
 layout: post
 title: 社会人和精英
 category: blog
-description: 名词解释
+description: 【社会人系列】其一
 ---
 
 世界上的人可以分为两个阶层。
