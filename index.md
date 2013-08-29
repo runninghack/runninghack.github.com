@@ -4,7 +4,7 @@ layout: page
 <div class="index-artical">
    <form action="upload" method="post">
 		<tr>
-			<td><i>I see myself as:</i></td><br>'+
+			<td><i>I see myself as:</i></td><br>
 			<td>1. <input type="text" name="q1" size="1" style=" border:none; border-bottom:1px #000000 solid;">Extraverted, enthusiastic.</td><br>
 			<td>2. <input type="text" name="q2" size="1" style=" border:none; border-bottom:1px #000000 solid;">Critical, quarrelsome.</td><br>
 			<td>3. <input type="text" name="q3" size="1" style=" border:none; border-bottom:1px #000000 solid;">Dependable, self-disciplined.</td><br>

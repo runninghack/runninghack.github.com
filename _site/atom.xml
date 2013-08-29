@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+   <title>Ramiel's blog</title>
+   <link href="/atom.xml" rel="self" type="application/atom+xml"/>
+   <link href="" rel="alternate" type="text/html" />
+   <updated>2013-08-29T14:19:05+08:00</updated>
+   <id></id>
+   <author>
+     <name>Ramiel</name>
+     <email></email>
+   </author>
+
+   
+   <entry>
+     <title>Notice</title>
+     <link href="http://runninghack.github.com/notice/"/>
+     <updated>2013-06-03T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/notice</id>
+     <content type="html">&lt;p&gt;给博客改样式改悲剧了，现在没功夫debug，等有时间了再收拾！&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>《回忆维特根斯坦》笔记</title>
+     <link href="http://runninghack.github.com/ludwig-wittgenstein/"/>
+     <updated>2013-04-06T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/ludwig-wittgenstein</id>
+     <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Malcolm: &quot;维特根斯坦最本质的特点是机器端正的严肃性和高度的智慧。&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Witt很少回顾他早期的观点，当他回顾时往往是为了否定它们。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Witt: “我由于胆小不爱争吵，尤其是不爱同我喜欢的人争吵。但是我宁愿争吵也不愿说一些纯粹敷衍的话。”&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Witt: &quot;我无可奈何地看到我的成果在流传中遭到了各样的曲解，被或多或少地篡改和打了折扣，这刺伤了我的虚荣心，而且我难以使它得到平息。&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Malcolm: &quot;同维特根斯坦在一起总是很紧张。这不仅是由于同他谈话的智力要求很高，同样还由于他的严厉，他的无情批评，他的挑剔脾气和他的抑郁。&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Witt: &quot;一个人应当用毕生用全部精力去从事他有才能去做的事。&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Malcolm: &quot;不论是对于他本人的未来还是一般地对于人类的未来，都抱一种深刻的悲观主义，这是维特根斯坦的一种性格。任何一个接近维特根斯坦的人都一定会察觉到他有一种情绪，即认为我们的生活是丑恶的，我们的心灵处在黑暗之中。——这是一种往往近于绝望的情绪。&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Malcolm: &quot;对于人之常情的无知正是摩尔的光荣。&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Witt: &quot;最能温暖我心的是人的同情心，而摩尔没有同情心。&quot;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+   </entry>
+   
+   <entry>
+     <title>公平正义</title>
+     <link href="http://runninghack.github.com/justice/"/>
+     <updated>2013-04-06T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/justice</id>
+     <content type="html">&lt;p&gt;如果你从小学到大学认识的所有班长都是关系户，这种行为的正当性就变得比一切美德都深入人心了。&lt;/p&gt;
+
+&lt;p&gt;有个同学的好基友今年考研没考上，想调剂我们学校，于是跑到党委书记那里送了3000块钱（所以我给同学的这个好基友取了个绰号叫“三千块”），然后书记就把导师打点好了。这个党委书记的劣迹还不止这些，本科时候选班委，同学们投票投出来的人没有当班长，反而让家里有关系的学生当。昨天我和同学就这个问题进行了讨论，我惊讶的发现，人们对于公平正义的理解并不像我&lt;a href=&quot;http://runninghack.github.io/conscientiou-and-numb/&quot;&gt;上一篇博客&lt;/a&gt;中所说那样——我原以为社会人并非不辨是非，只是不去追求。这真是高估社会人了，还真是有那么多社会人不辨是非。&lt;/p&gt;
+
+&lt;p&gt;我以为比较庶民的观点是这样的：“找关系看人情是错误的，但确实存在这种事。而且有时候自己迫不得已也会这样做。”但是我同学认为这样做根本就是正确的，原因是：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;大家都这样做。社会上办事、找工作的时候，照顾人情、行贿受贿是太常见的事情了。你们觉得不对是因为没见识到更恶劣的，全校所有的班长都是这样当上的。总之，too young, too simple，到了社会上你们就知道了。&lt;/li&gt;
+&lt;li&gt;这么做是不得已的。别人都偷奸耍滑，你如果不这样做的话就吃亏了。一个老师就招3个人，两个人都找关系了，你不找，不就考不上了么；一个公司就招10个人，6个人都行贿了，你比剩下3个人都强吗。所以，必须要这样做。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;看到没有，典型的&lt;a href=&quot;http://runninghack.github.io/social-man-and-elite/&quot;&gt;社会人思维&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;我承认公平正义不是一件非A即B的事情，有很多悖论（例如&lt;a href=&quot;http://zh.wikipedia.org/zh/%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A6%E9%9A%BE%E9%A2%98&quot;&gt;电车难题&lt;/a&gt;），也随时代的进步而不断改变，但我相信其中一定有其客观性，做的人多并不代表它是对的。况且社会人所理解的“大家都这样做”也许只是井底之蛙的孤芳自赏。在一些文明程度更高的国家里“人情”这种东西是根本不起作用的，行贿会被判刑。即使在我们这个神奇的国度里，社会人的那一套也越来越不好用了。随着网络的普及，很多阴暗的角落也容易暴露在人们的视线中，很多不公平的事情被曝光被纠正。&lt;/p&gt;
+
+&lt;p&gt;我相信更加公平正义的一天很快会到来，那时候无论社会人还是民科都会记起我们在小学时候就已经知道的一些美德，比如诚实、善良、正直。在时机未成熟之前，我并不希望弘毅之士由于跳出来摇旗呐喊而被迫害。对于我来说，让社会变得更好只是一个美好的愿望，不是一定要达成的目标。就算我有改变环境的能力，我也不一定会去做（实际上我还是&lt;a href=&quot;http://runninghack.github.io/conscientiou-and-numb&quot;&gt;做了一些&lt;/a&gt;）。相比改变一小部分人，这个世界上还有很多更值得追求的事情，比如知识与智识。&lt;/p&gt;
+
+&lt;p&gt;这是“社会人系列”的第三篇了。即使我写这么正经严肃的内容，也会有社会人跳出来说我是自以为是、完美主义、极端分子。有哪一个形容词经得住推敲吗？即使这些指控是真的，又有什么影响呢？要诅咒我“以后到了社会上遭殃”吗？&lt;/p&gt;
+
+&lt;p&gt;有人说，我应该容许世界上有各种人存在。这是对我的恭维吧。按照各类人格分类法，我似乎都是小众的存在，若非我的言论有足够的分量，难道不应该是我乞求这个世界容许我的存在吗？又若非我经历过各种质疑，才知晓对他们最好的回应就是什么都不说。&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>REPL</title>
+     <link href="http://runninghack.github.com/REPL/"/>
+     <updated>2013-04-04T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/REPL</id>
+     <content type="html">&lt;p&gt;REPL(Read-eval-print loop)是一种交互式开发环境。这个词经常用来代表Lisp语言的交互式环境，但也可以用来代表其他编程语言类似的命令行shell。&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>认真与麻木</title>
+     <link href="http://runninghack.github.com/conscientiou-and-numb/"/>
+     <updated>2013-04-02T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/conscientiou-and-numb</id>
+     <content type="html">&lt;p&gt;我们学校的研究生有个传统，就是每届都要有个班出来给本科生做一些活动，这些活动可以是讲座、竞赛等。今年这个活动轮到了我的头上，其中的一些问题让我非常无奈，必须吐槽一下。&lt;/p&gt;
+
+&lt;p&gt;本来我已经在做这个活动的一些工作了，却发现这个活动为什么要做、谁是发起者、谁负最终责任、谁是把关者、谁是赞助者，这些问题都没人知道！我本科的时候在学习部做副部长，组织过很多类似的活动，那是我应该做的，因为我自愿加入了学生会，而学生会就是做这类事务的。现在我们并未加入任何奇怪的组织，有什么理由要为整个学院做事呢？对于这么一件莫名其妙的事情，周围人的反应非常有趣——每个人都泰然自若的接受下来，还要求下一届的人继续做下去——这难道不是很奇怪的事吗？&lt;/p&gt;
+
+&lt;p&gt;他们说：“以前每一届都是这么做的！”这就是我在&lt;a href=&quot;http://runninghack.github.com/social-man-and-elite/&quot;&gt;上篇博客&lt;/a&gt;里面提到的“流瀑效应”。有人做过这样的实验，让一个毫不相关的人穿上白大褂到医院里去，随便找一个护士让她开不符合标准的药，几乎所有的护士都听从了。因为这些护士已经习惯了顺从，放弃了思考。纳粹做种族灭绝、南京大屠杀...做出这些事情的人都是恶人吗？不，他们都是和我们一样的人，只是受到了信息流瀑的影响。你知道群众是多么的无知吗？现在仍有45%的美国人认为人类是1万年前左右的某一时刻上帝按照自己的模样创造出来的；90%的PC用户不知道ctrl+F快捷键。&lt;/p&gt;
+
+&lt;p&gt;麻木地顺从周围环境和上层建筑确实是最省心的决策方案，但其毒害也很深重，因为这种策略是排外的。社会人会极力迫害你、同化你，其他的策略（例如理性思考）因此变得越来越难以坚持。尼采的人格是多么璀璨、道德标准是多么强硬，一个社会人却敢在对尼采毫不了解的情况下批评尼采偏激。文化大革命时期多少人受到迫害，这种教训还少吗？其实说这么多我也并不指望能说服任何一个社会人，因为社会人都是食古不化的家伙，就算你胜在逻辑上，社会人也会说出一句毫不相关的“哦，你牛逼，我是普通人”或者“人家都这样”之类的话让你哭笑不得。&lt;/p&gt;
+
+&lt;p&gt;他们说：“不过只是一个活动而已嘛，何必这么认真呢！”确实应付一个活动用不了多少精力，可能我写这篇博客的精力就足够了。但在我看来即使是举手之劳，也要认真对待。一个原则是：想要应付的事情，都是可以不做的事情；要做就认真对待。&lt;/p&gt;
+
+&lt;p&gt;我高三的时候班里的情况很糟糕，同学没有办法，班主任也听之任之。我写了几十页的信给班主任希望解决问题。第二天班会班主任在黑板写下“失败的班主任”做自我批评，然后我当选了班长。 我大一的时候担任学习委员，每份作业都要追究到底，甚至要求每个同学在作业上写“我以人格担保独立思考完成作业”（这个现在想来有些过分了），那时候我们班在学习成绩上完爆别班几条街。大二的时候我担任大一的导员助理，虽然叫“导员助理”其实就是监督晚自习的，我给导员发邮件说：“我不管别人是怎么做的，既然我叫‘导员助理’，就一定会担负起与这个称号相配的责任”。虽然这种认真（执拗？）的态度也造成过一些麻烦，但我仍把它当做自己最宝贵的品质之一。&lt;/p&gt;
+
+&lt;p&gt;诚实、正直、坚强，这些是小学生都知道的品质，社会人遗弃了这些，变得麻木不仁。这个社会束缚你，自己也会束缚自己，让你看不到真理，不敢追求正义。君子不忧不惧以求真理，并非因为君子有某种神性的内在秉性，而是因为他把世界看得更清楚，在此基础上做出了判断——怎能容忍自己不是英雄？德操高洁、趣味深微、智识卓绝、拥有一颗高贵的灵魂，大丈夫当如是。&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>Emacs</title>
+     <link href="http://runninghack.github.com/emacs/"/>
+     <updated>2013-03-31T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/emacs</id>
+     <content type="html">&lt;h2&gt;安装&lt;/h2&gt;
+
+&lt;p&gt;Linux的发行版一般都安装了Emacs，如果没安装就用zypper, apt-get, yum等工具安装吧。&lt;/p&gt;
+
+&lt;p&gt;Windows版的Emacs下载之后放到合适的位置，执行bin目录下的addpm.exe文件就可以把emacs加到开始菜单中了。我开始下载了一个win32版运行有错误，发现有一个更大的版本（100多MB），这个没有问题。&lt;/p&gt;
+
+&lt;h2&gt;基础入门&lt;/h2&gt;
+
+&lt;p&gt;第一个教程可以看Emacs Tutorial，直接打开Emacs，按Ctrl+h，然后再按t，就可以打开Emacs Tutorial了。如果想看其他语言，可以按Alt+x，然后输入help-with-tutorial-spec-language，就可以选择语言。&lt;/p&gt;
+
+&lt;h2&gt;配置slime+sbcl+emacs&lt;/h2&gt;
+
+&lt;p&gt;安装或下载slime和sbcl（或clisp），然后打开emacs的配置文件，Linux在主目录下，Windows在C:\Users\username\AppData\Roaming。我的配置：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;;;配置slime和sbcl
+;;注意slime和sbcl的安装位置不要有空格，出问题一般就是这个原因，用正反斜杠和双斜杠都试过，都不好用。
+(add-to-list 'load-path &quot;D:/Program/slime/&quot;)
+(setq inferior-lisp-program &quot;D:/Program/sbcl/sbcl.exe&quot;)
+(require 'slime)
+(slime-setup)
+
+;;语法高亮
+(global-font-lock-mode t)
+
+;;按回车键后下一行代码自动缩进
+(add-hook 'lisp-mode-hook '(lambda ()
+      (local-set-key (kbd &quot;RET&quot;) 'newline-and-indent))) 
+
+;;把缺省的 major mode 设置为 text-mode
+(setq default-major-mode 'text-mode)
+
+;;括号匹配时显示另外一边的括号。
+(show-paren-mode t)
+(setq show-paren-style 'parentheses)
+
+;; 显示时间
+(display-time)
+
+;; 设置 sentence-end 可以识别中文标点
+(setq sentence-end
+      &quot;\\([。！？]\\|……\\|[.?!][]\&quot;')}]*\\($\\|[ \t]\\)\\)[ \t\n]*&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;设置好后，打开Emacs按Alt+x，然后输入slime回车，现在进入终端模式了，可以直接输入lisp代码测试，例如：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;(format t &quot;Hello World!&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;或&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;(+ 1 1)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;接下来试试编辑文件，按C-c C-f，输入文件名，在新建的文件中输入&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;(defun hello-world ()
+  (format t &quot;Hello World!&quot;))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;按C-c C-c，即可编译这段代码到SLIME中，然后输入C-x，b，回车（其实是切换到了上一次打开的缓冲区）后进入SLIME，输入：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;(hello-world)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;学习资源&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://emacser.com/&quot;&gt;Emacs中文网&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.emacswiki.org/&quot;&gt;Emacswiki&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://docs.huihoo.com/homepage/shredderyin/emacs.html&quot;&gt;王垠的Emacs资料&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ann77.emacser.com/Emacs/EmacsIndex.html&quot;&gt;王纯业的Emacs资料&lt;/a&gt;&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>图</title>
+     <link href="http://runninghack.github.com/graph/"/>
+     <updated>2013-03-26T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/graph</id>
+     <content type="html">&lt;h2&gt;一. 基本概念&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;图&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;有向图&lt;/strong&gt;、&lt;strong&gt;无向图&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;连通图&lt;/strong&gt;、&lt;strong&gt;非连通图&lt;/strong&gt;、&lt;strong&gt;强连通图&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;边&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;路径&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;圈&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;连通分量&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;二. 扩展概念&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;三元闭包&lt;/strong&gt;：B和C均与A相连，则在B和C相连就形成了三点彼此相连。在社交圈中，若两人有共同的朋友，两人成为朋友的几率更大。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;聚集系数&lt;/strong&gt;：A的任意两个朋友彼此也是朋友的概率。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;桥&lt;/strong&gt;：若去掉A和B的边会导致A和B分属两个不同的连通分量，则该边为桥。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;捷径&lt;/strong&gt;：若A-B的端点A和B没有共同朋友，则称边A-B为捷径。
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;跨度&lt;/strong&gt;：若没有捷径情况下的距离&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;强联系&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;强三元闭包&lt;/strong&gt;：若节点A与B和C的关系均为强联系，且B和C之间无任何连接，则称节点A违反了强三元闭包性质。否则，称节点A满足强三元闭包性质。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;嵌入性&lt;/strong&gt;：一条边的嵌入性是两个端点共同邻居的数量。社会学的一系列研究都试图论证，如果两个个体由嵌入性很高的边相连，他们就比较相互信任，他们就会对之间所发生的交往的诚实性有信心。&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+   </entry>
+   
+   <entry>
+     <title>Tex</title>
+     <link href="http://runninghack.github.com/tex/"/>
+     <updated>2013-03-24T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/tex</id>
+     <content type="html">&lt;p&gt;lshort-zh-cn&lt;/p&gt;
+
+&lt;p&gt;大家来学Latex&lt;/p&gt;
+
+&lt;p&gt;BibTex&lt;/p&gt;
+
+&lt;p&gt;CTex&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>设计</title>
+     <link href="http://runninghack.github.com/design/"/>
+     <updated>2013-03-24T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/design</id>
+     <content type="html">&lt;p&gt;&lt;a href=&quot;http://daiyuwen.freeshell.org/gb/taste/taste.html&quot;&gt;Taste for Makers&lt;/a&gt;&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>Lisp</title>
+     <link href="http://runninghack.github.com/Lisp/"/>
+     <updated>2013-03-24T00:00:00+08:00</updated>
+     <id>http://runninghacl.github.com/Lisp</id>
+     <content type="html">&lt;h2&gt;Scheme&lt;/h2&gt;
+
+&lt;h3&gt;简介&lt;/h3&gt;
+
+&lt;p&gt;Scheme 是一个多范式的程序语言。它是 Lisp 的两个主要方言之一（另一个是 Common Lisp）；它以支持函数式编程为人们所知。它由 Guy L. Steele 和 Gerald Jay Sussman 于1970年代开发而成，通过一系列的论文被引入学术界，现在那些论文被称为 Sussman and Steele's Lambda Papers。至今，Scheme 有两个标准存在，一个是 美电工协会（IEEE）标准，另一个是（事实上更被广为接受的）叫做 RnRS 标准 （Revision n Report on the Algorithmic Language Scheme），n 是版本号。被大多数实现支持的标准是 R5RS 和 R6RS。&lt;/p&gt;
+
+&lt;p&gt;Scheme 的设计哲学是最小极简主义。它只提供必须的少数几个原语，所有其他的实用功能都由库来实现。&lt;/p&gt;
+
+&lt;p&gt;Scheme 是第一个采用 lexical scope 和要求其实现支持尾递归的 Lisp 方言，它也是最早支持 first-class continuations 的程序语言之一。&lt;/p&gt;
+
+&lt;h3&gt;实现&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;PLT-Scheme (改名为Racket)
+Gnu Guile
+Bigloo
+Gauche
+Gambit-C
+Chicken Scheme
+MIT-Scheme
+Ikarus
+Scsh
+Stalin
+Scheme48
+Chibi-scheme
+STKlos
+SCM
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;库&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;SRFI
+Slib
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;学习&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;《How to Design Programs》 使用Racket来教导没有编程基础的人程序设计的基本概念，简称HTDP
+《Structure and Interpretation of Computer Programs》 SICP，MIT经典课程，比HTDP难一些
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;Common Lisp&lt;/h2&gt;
+
+&lt;h3&gt;简介&lt;/h3&gt;
+
+&lt;p&gt;Common Lisp是一个多范式的通用程序语言，它同时支持过程式，函数式和面向对象式等多种编程风格。它有强大的 宏，能够在编译的不同时期被调用。它能在运行时重编译部分程序而无须重新启动，从而使得渐进式的软件开发变得容易。&lt;/p&gt;
+
+&lt;p&gt;Common Lisp有一套工业标准，叫ANSI CL。&lt;/p&gt;
+
+&lt;h3&gt;各种实现&lt;/h3&gt;
+
+&lt;p&gt;Common Lisp有许多实现，其中开源实现 SBCL, ClozureCL, CLisp 和商业实现 Lispworks, AllegroCL 的应用最为广泛。&lt;/p&gt;
+
+&lt;h3&gt;开源实现列表：&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;SBCL
+ClozureCL
+CLisp
+CMUCL
+ECL
+ABCL
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;商业实现列表：&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;Lispworks
+AllegroCL
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;开发环境&lt;/h3&gt;
+
+&lt;p&gt;SLIME + Emacs 是最为流行的开发环境。&lt;/p&gt;
+
+&lt;h3&gt;入门教程&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;lisp入门教程.pdf
+web框架——weblocks 
+Google Common Lisp 风格指南 模式意味著“我的语言不够用了。” — Rich Hickey
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;其他资源&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html&quot;&gt;Lisp之根源&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The roots of Lisp&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;On Lisp (Paul Graham)&lt;/li&gt;
+&lt;li&gt;Practical Common Lisp (Peter Seibel)&lt;/li&gt;
+&lt;li&gt;Land of Lisp (Conrad Barski)&lt;/li&gt;
+&lt;li&gt;Common Lisp the Language (2nd Edition)&lt;/li&gt;
+&lt;li&gt;Paradigms of Artificial Intelligence Programming (Peter Norvig)&lt;/li&gt;
+&lt;li&gt;Let Over Lambda (Doug Hoyte)&lt;/li&gt;
+&lt;li&gt;The Art of the Metaobject Protocol (Gregor Kiczales)&lt;/li&gt;
+&lt;li&gt;The Scheme Programming Language (R. Kent Dybvig)&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+   </entry>
+   
+ 
+</feed>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ramiel's blog</title>
+    <meta name="generator" content="Jekyll" />
+    <meta name="author" content="Ramiel" />
+    <meta name="description" content="Ramiel's Blog" />
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript">
+        var BYB = {};
+    </script>
+</head>
+<body>
+     <div id ="head" >
+	 <div class ='logo left' >
+	 <a href ="/" title ="Home" > Ramiel 's Blog</a>
+	    </div>
+	    <div id="header">
+	        <div class="nav right">
+	            <a href="/" title="Thoughts On Something">Blog</a>
+	            <a href="/wiki" title="Wiki Everything">Wiki</a>
+	            <a href="/about" title="About Ramiel" >About</a>
+	            <a href="/atom.xml" rel="feed" title="Subscribes The Feed" target="_blank">RSS</a>
+	        </div><!-- .nav -->
+	    </div><!-- #header -->
+	</div><!-- #head -->
+	<div id="content">
+	    <div class="index-artical">
+    <ul class="index-left">
+    
+        <li>
+            <h2>
+            	<a href="/notice/">Notice</a>
+            </h2>
+            <span></span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/justice/">公平正义</a>
+            </h2>
+            <span>【社会人系列】其三</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/conscientiou-and-numb/">认真与麻木</a>
+            </h2>
+            <span>【社会人系列】其二</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/social-man-and-elite/">社会人和精英</a>
+            </h2>
+            <span>【社会人系列】其一</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Thinking-is-the-Most-Important-Thing/">思想最重要</a>
+            </h2>
+            <span>打破传统思维，拒绝“无招胜有招”</span>
+        </li>
+    
+    </ul>
+
+    <ul class="index-mid"> </ul>
+
+    <ul class="index-right">
+    
+        <li>
+            <h2>
+            	<a href="/ludwig-wittgenstein/">《回忆维特根斯坦》笔记</a>
+            </h2>
+            <span>诺尔曼·马尔康姆 ,2012-8,9787100089739,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Proofs-Refutations/">《证明与反驳》笔记</a>
+            </h2>
+            <span>Imre Lakatos, 2007-3, 9787309053975, 借自图书馆</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Fermats-Last-Theorem/">《费马大定理》笔记</a>
+            </h2>
+            <span>Simon Singh , 2005-5, 9787532736164,借自图书馆</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Gifts-Differing/">《天资差异》笔记</a>
+            </h2>
+            <span>Isabel Briggs Myers, 2008-1,9787536692008,电子版</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/GTD/">《搞定I:无压工作的艺术》笔记</a>
+            </h2>
+            <span>David Allen, 2010-5, 9787508618944,借自朋友</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Going-to-Extremes/">《极端的人群》</a>
+            </h2>
+            <span>Cass R. Sunstein,2010-5,9787501191970,借自图书馆</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/On-Intelligence/">《人工智能的未来》笔记</a>
+            </h2>
+            <span>Jeff Hawkins,2006-1,9787536940185,借自图书馆</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Microsoft-Visual-Studio-Tips/">《Visual Studio 程序员箴言》笔记</a>
+            </h2>
+            <span>Sara Ford,2010-1,9787115215727,借自图书馆</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Pomodoro-Technique-Illustrated/">《番茄工作法图解》笔记</a>
+            </h2>
+            <span>Staffan Nöteberg,2011-2,9787115246691,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/How-to-Think-Straight-about-Psychology/">《与"众"不同的心理学》笔记</a>
+            </h2>
+            <span>Keith E.Stanovich,2005-2,9787501946976,借自图书馆</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Hackers-and-Painters/">《黑客与画家》笔记</a>
+            </h2>
+            <span>Paul Graham,2011-4,9787115249494,借自图书馆</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Agile-Software-Development/">《敏捷软件开发》笔记</a>
+            </h2>
+            <span>Robert C. Martin,2008-1,9787115165756,借自图书馆</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Intimate-Relationships/">《亲密关系》笔记</a>
+            </h2>
+            <span>Sharon Stephens Brehm,2005-10,9787115138798,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Influence/">《影响力》笔记</a>
+            </h2>
+            <span>Robert B.Cialdini,2010-9,9787547012123,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Introduction-to-Psychoanalysis/">《精神分析引论》笔记</a>
+            </h2>
+            <span>Sigmund Freud,2007-10,9787200069785,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Pragmatic-Thinking-and-Learning/">《程序员的思维修炼》笔记</a>
+            </h2>
+            <span>Andy Hunt,2010-12,9787115242334,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Discrete-Mathematics-and-Its-Applications/">《离散数学及其应用》笔记</a>
+            </h2>
+            <span>Kenneth H.Rosen,2007-6,9787111203261,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/The-Introvert-Advantage/">《内向者优势》笔记</a>
+            </h2>
+            <span>Marti Olsen Laney,2008-1,9787561757819,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/Out-of-Control/">《失控》笔记</a>
+            </h2>
+            <span>Kevin Kelly,2010-12,9787513300711,自购图书</span>
+        </li>
+    
+        <li>
+            <h2>
+            	<a href="/What-Is-Mathematics/">《什么是数学》笔记</a>
+            </h2>
+            <span>Richard Courant,2005-5,9787309044546,自购图书</span>
+        </li>
+    
+    </ul>
+</div>
+
+<script type="text/javascript">
+$(function(){
+    var height = $('.index-artical').height();
+    $('.index-mid').height(height-90);
+});
+</script>
+
+	</div><!-- #content -->
+	<div id="footer">
+	    <div class="copyright right">
+	
+	    </div>
+	</div><!-- #footer -->
+
+</body>
+</html>

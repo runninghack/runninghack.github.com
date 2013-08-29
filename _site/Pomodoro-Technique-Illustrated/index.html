@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>《番茄工作法图解》笔记 | Ramiel's blog</title>
+    <meta name="generator" content="Jekyll" />
+    <meta name="author" content="Ramiel" />
+    <meta name="description" content="Ramiel's Blog" />
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript">
+        var BYB = {};
+    </script>
+</head>
+<body>
+     <div id ="head" >
+	 <div class ='logo left' >
+	 <a href ="/" title ="Home" > Ramiel 's Blog</a>
+	    </div>
+	    <div id="header">
+	        <div class="nav right">
+	            <a href="/" title="Thoughts On Something">Blog</a>
+	            <a href="/wiki" title="Wiki Everything">Wiki</a>
+	            <a href="/about" title="About Ramiel" >About</a>
+	            <a href="/atom.xml" rel="feed" title="Subscribes The Feed" target="_blank">RSS</a>
+	        </div><!-- .nav -->
+	    </div><!-- #header -->
+	</div><!-- #head -->
+	<div id="content">
+	    <link rel="stylesheet" href="/js/prettify/prettify.css" />
+<div class="entry">
+
+    <h1><a href="/Pomodoro-Technique-Illustrated/" title="《番茄工作法图解》笔记">《番茄工作法图解》笔记</a></h1>
+    <time>2012-10-29</time>  - 类别：note
+    <p/>
+
+    <p>很多人有这样的经验：坐长途汽车的时候看书、走路的时候背单词等，效率非同寻常。这是因为时间相对固定，活动单一、目标单一。</p>
+
+<p>番茄工作法把一天分为以下五个阶段：</p>
+
+<ul>
+<li>计划：早上从积压的工作中提取最重要的活动，填写“今日待办”表格。这就是你当天的自我承诺。</li>
+<li>跟踪：扭启25分钟的番茄闹钟，从当天活动的第一项开始进行。这段时间内排除干扰，一心只做一件事。期间要记录一些过程指标，例如中断次数。</li>
+<li>记录：晚上把今天记录的数据归档。</li>
+<li>处理：从记录的数据中提取有用信息。</li>
+<li>可视化：把信息以某种方式组织起来，从中找到改进流程的思路。</li>
+</ul>
+
+
+<p>三张纸：</p>
+
+<ul>
+<li>今日待办：如果今天不打算做，就不要填进去，眼不见心不烦！当前工作用荧光笔标出，完成之后用黑笔划掉。</li>
+<li>近期活动清单：可以是一堆卡片！</li>
+<li>指标记录</li>
+</ul>
+
+
+<p>第二章的内容涉及认知科学的一些结论，证明番茄工作法是符合大脑工作原理的。</p>
+
+<p>过度学习：如果一项工作在一个番茄钟的一半就完成了，不要切换到别的工作，而是进行过度学习。</p>
+
+<p>ADT: 注意力缺乏特征。员工在办公室上班时，大约每3分钟就被打断一次。</p>
+
+<p>做预估：对今日待办事务进行预估需要多少个番茄钟，必须是整数。画相应个数的源泉，完成一个番茄钟后再圆圈中画叉。如果第一次预估失误，进行第二次预估。</p>
+
+    
+    <div style="clear:both"></div>
+</div><!-- .entry -->
+<div id="disqus_container"> 
+    <a href="#" class="comment" onclick="return false;">点击查看评论</a>
+    <div id="disqus_thread"></div>
+</div> 
+<script type="text/javascript">
+    $(document).ready(function(){
+
+            var isMobile = {
+                Android: function() {
+                    return navigator.userAgent.match(/Android/i);
+                }
+                ,BlackBerry: function() {
+                    return navigator.userAgent.match(/BlackBerry/i);
+                }
+                ,iOS: function() {
+                    return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+                }
+                ,Opera: function() {
+                    return navigator.userAgent.match(/Opera Mini/i);
+                }
+                ,Windows: function() {
+                    return navigator.userAgent.match(/IEMobile/i);
+                }
+                ,any: function() {
+                    return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+                }
+            };
+
+
+
+        $('pre').addClass('prettyprint linenums') //添加Google code Hight需要的class
+
+        //***********************
+        //**评论的代码***
+        window.disqus_shortname = 'ramiel'; // required: replace example with your forum shortname
+        $('#disqus_container .comment').on('click',function(){
+            $(this).html('加载中...');
+            var that = this;
+            $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
+        });
+        //***********************
+
+        $('.entry a').each(function(index,element){
+            var href = $(this).attr('href');
+            if(href){
+                if(href.indexOf('#') == 0){
+                }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('beiyuu.com')>-1 ){
+                }else if ($(element).has('img').length){
+                }else{
+                    $(this).attr('target','_blank');
+                    $(this).addClass('external');
+                }
+            }
+        });
+
+        if($('h2').length > 2 && !isMobile.any()){
+            var h2 = [],h3 = [],tmpl = '<ul>',h2index = 0;
+
+            var findScrollableElement = function(els) {
+                for (var i = 0, argLength = arguments.length; i < argLength; i++) {
+                    var el = arguments[i],
+                    $scrollElement = $(el);
+                    if ($scrollElement.scrollTop() > 0) {
+                        return $scrollElement;
+                    } else {
+                        $scrollElement.scrollTop(1);
+                        var isScrollable = $scrollElement.scrollTop() > 0;
+                        $scrollElement.scrollTop(0);
+                        if (isScrollable) {
+                            return $scrollElement;
+                        }
+                    }
+                }
+                return [];
+            };
+
+            $.each($('h2,h3'),function(index,item){
+                if(item.tagName.toLowerCase() == 'h2'){
+                    var h2item = {};
+                    h2item.name = $(item).text();
+                    h2item.id = 'menuIndex'+index;
+                    h2.push(h2item);
+                    h2index++;
+                }else{
+                    var h3item = {};
+                    h3item.name = $(item).text();
+                    h3item.id = 'menuIndex'+index;
+                    if(!h3[h2index-1]){
+                        h3[h2index-1] = [];
+                    }
+                    h3[h2index-1].push(h3item);
+                }
+                item.id = 'menuIndex' + index
+            });
+
+            //添加h1
+            tmpl += '<li class="h1"><a href="#" data-top="0">'+$('h1').text()+'</a></li>';
+
+            for(var i=0;i<h2.length;i++){
+                tmpl += '<li><a href="#" data-id="'+h2[i].id+'">'+h2[i].name+'</a></li>';
+                if(h3[i]){
+                    for(var j=0;j<h3[i].length;j++){
+                        tmpl += '<li class="h3"><a href="#" data-id="'+h3[i][j].id+'">'+h3[i][j].name+'</a></li>';
+                    }
+                }
+            }
+            tmpl += '</ul>';
+
+            var $scrollable = findScrollableElement('body','html');
+            $('body').append('<div id="menuIndex"></div>');
+            $('#menuIndex').append($(tmpl)).delegate('a','click',function(e){
+                e.preventDefault();
+                var scrollNum = $(this).attr('data-top') || $('#'+$(this).attr('data-id')).offset().top;
+                //window.scrollTo(0,scrollNum-30);
+                $scrollable.animate({ scrollTop: scrollNum-30 }, 400, 'swing');
+            })
+
+            $(window).load(function(){
+                var scrollTop = [];
+                $.each($('#menuIndex li a'),function(index,item){
+                    if(!$(item).attr('data-top')){
+                        var top = $('#'+$(item).attr('data-id')).offset().top;
+                        scrollTop.push(top);
+                        $(item).attr('data-top',top);
+                    }
+                });
+
+                $(window).scroll(function(){
+                    var nowTop = $(window).scrollTop(),index,length = scrollTop.length;
+                    if(nowTop+60 > scrollTop[length-1]){
+                        index = length
+                    }else{
+                        for(var i=0;i<length;i++){
+                            if(nowTop+60 <= scrollTop[i]){
+                                index = i
+                                break;
+                            }
+                        }
+                    }
+                    $('#menuIndex li').removeClass('on')
+                    $('#menuIndex li').eq(index).addClass('on')
+                });
+            });
+
+            //用js计算屏幕的高度
+            $('#menuIndex').css('max-height',$(window).height()-80);
+        }
+
+        $.getScript('/js/prettify/prettify.js',function(){prettyPrint()});
+
+        $.getScript('http://v2.jiathis.com/code/jia.js',function(){})
+    });
+</script>
+
+	</div><!-- #content -->
+	<div id="footer">
+	    <div class="copyright right">
+	
+	    </div>
+	</div><!-- #footer -->
+
+</body>
+</html>
