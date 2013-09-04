@@ -1,36 +1,25 @@
-	<script type="text/javascript">
-	function upload(response, postData) {
-  var form = querystring.parse(postData);
-  console.log("Request handler 'upload' was called.");
-  response.writeHead(200, {"Content-Type": "text/html"});
-  var O=form.q5-form.q10;
-  var C=form.q3-form.q8;
-  var E=form.q1-form.q6;
-  var A=form.q7-form.q2;
-  var N=form.q9-form.q4;
-  var body='<html>'+
-  '<head>'+
-  '<meta http-equiv="Content-Type" content="text/html; '+
-  'charset=UTF-8" />'+
-  '</head>'+
-  '<body>'+
-  '<tr>'+
-  '<td><i>Your Big Five Result:</i></td><br>'+
-  '<td>Openness:'+ O +'</td><br>'+
-  '<td>Conscientiousness:'+ C +'</td><br>'+
-  '<td>Extraversion:'+ E +'</td><br>'+
-  '<td>Agreeableness:'+ A +'</td><br>'+
-  '<td>Neuroticism:'+ N +'</td><br>'+
-  '</tr>'+
-  '</body>'+
-  '</html>';
-  response.write(body);
-  response.end();
-}
-	</script>
-
-<div>
-   <form action="upload" method="post">
+---
+layout: page
+---
+<script src=" http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=1915696073" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+	WB2.anyWhere(function(W){
+    W.widget.connectButton({
+        id: "wb_connect_btn",
+        type: '3,2',
+        callback : {
+            login:function(o){
+                alert(o.screen_name)
+            },
+            logout:function(){
+                alert('logout');
+            }
+        }
+    });
+});
+</script>
+<div class="index-artical">
+   <form action="/" method="post">
 		<tr>
 			<td><i>I see myself as:</i></td><br>
 			<td>1. <input type="text" name="q1" size="1" style=" border:none; border-bottom:1px #000000 solid;">Extraverted, enthusiastic.</td><br>
@@ -45,6 +34,7 @@
 			<td>10. <input type="text" name="q10" size="1" style=" border:none; border-bottom:1px #000000 solid;">Conventional, uncreative.</td><br>
 		</tr>
 		<input type="submit" value="Submit" />
+		<div id="wb_connect_btn"></div>
 	</form>
 </div>
 

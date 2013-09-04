@@ -1,36 +1,60 @@
 ---
 layout: nil
 ---
-<div id="home">
-	<h1>Test</h1>
-	
-	<form>
+
+	<script type="text/javascript">
+	function upload(response, postData) {
+  var form = querystring.parse(postData);
+  console.log("Request handler 'upload' was called.");
+  response.writeHead(200, {"Content-Type": "text/html"});
+  var O=form.q5-form.q10;
+  var C=form.q3-form.q8;
+  var E=form.q1-form.q6;
+  var A=form.q7-form.q2;
+  var N=form.q9-form.q4;
+  var body='<html>'+
+  '<head>'+
+  '<meta http-equiv="Content-Type" content="text/html; '+
+  'charset=UTF-8" />'+
+  '</head>'+
+  '<body>'+
+  '<tr>'+
+  '<td><i>Your Big Five Result:</i></td><br>'+
+  '<td>Openness:'+ O +'</td><br>'+
+  '<td>Conscientiousness:'+ C +'</td><br>'+
+  '<td>Extraversion:'+ E +'</td><br>'+
+  '<td>Agreeableness:'+ A +'</td><br>'+
+  '<td>Neuroticism:'+ N +'</td><br>'+
+  '</tr>'+
+  '</body>'+
+  '</html>';
+  response.write(body);
+  response.end();
+}
+	</script>
+
+<div>
+   <form action="upload" method="post">
 		<tr>
-			<td><a id="qn1juanbiao"></a><strong>1 ...Is talkative </strong></td>
-			<td ><span>
-				<input type="radio" value="1" name="qn1">
-			</span></td>
-			<td  ><span >
-				<input type="radio" value="2" name="qn1">
-			</span></td>
-			<td  ><span >
-				<input type="radio" value="3" name="qn1">
-			</span></td>
-			<td ><span >
-				<input type="radio" value="4" name="qn1">
-			</span></td>
-			<td><span>
-				<input type="radio" value="5" name="qn1">
-			</span></td>
+			<td><i>I see myself as:</i></td><br>
+			<td>1. <input type="text" name="q1" size="1" style=" border:none; border-bottom:1px #000000 solid;">Extraverted, enthusiastic.</td><br>
+			<td>2. <input type="text" name="q2" size="1" style=" border:none; border-bottom:1px #000000 solid;">Critical, quarrelsome.</td><br>
+			<td>3. <input type="text" name="q3" size="1" style=" border:none; border-bottom:1px #000000 solid;">Dependable, self-disciplined.</td><br>
+			<td>4. <input type="text" name="q4" size="1" style=" border:none; border-bottom:1px #000000 solid;">Anxious, easily upset.</td><br>
+			<td>5. <input type="text" name="q5" size="1" style=" border:none; border-bottom:1px #000000 solid;">Open to new experiences, complex.</td><br>
+			<td>6. <input type="text" name="q6" size="1" style=" border:none; border-bottom:1px #000000 solid;">EReserved, quiet.</td><br>
+			<td>7. <input type="text" name="q7" size="1" style=" border:none; border-bottom:1px #000000 solid;">Sympathetic, warm.</td><br>
+			<td>8. <input type="text" name="q8" size="1" style=" border:none; border-bottom:1px #000000 solid;">Disorganized, careless.</td><br>
+			<td>9. <input type="text" name="q9" size="1" style=" border:none; border-bottom:1px #000000 solid;">Calm, emotionally stable.</td><br>
+			<td>10. <input type="text" name="q10" size="1" style=" border:none; border-bottom:1px #000000 solid;">Conventional, uncreative.</td><br>
 		</tr>
-		<tr></tr>
-		<tr></tr>
-		<tr></tr>
-		<tr></tr>
-		<tr></tr>
-		<tr></tr>
-		<tr></tr>
-		<tr></tr>
-		<tr></tr>
+		<input type="submit" value="Submit" />
 	</form>
 </div>
+
+<script type="text/javascript">
+$(function(){
+    var height = $('.index-artical').height();
+    $('.index-mid').height(height-90);
+});
+</script>
