@@ -3,22 +3,23 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
+
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+title:               Switch Overflow
+tagline:             "Ramiel's Blog"
+description:         '机械键盘DIY/古董键盘收藏.'
+#url:                 
+baseurl:             ""
 paginate:            5
-paginate_path: "/blog/page:num/"
+paginate_path:       "page:num"
 
 gems: [jekyll-paginate,jekyll-gist]
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ramiel
+  url:               http://switchoverflow.com
+  email:             zl.ramiel@gmail.com
 
 # Custom vars
 version:             1.0.0
