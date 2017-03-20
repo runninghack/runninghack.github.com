@@ -3,9 +3,11 @@ layout: post
 title: 客制化键盘： ErgoDox
 ---
 
-入手时间： 2015-11-07
+初版完成时间： 2015-11-12
 
-入手途径： 幻草零
+PCB、亚克力外壳、主控入手途径： 幻草零 2015-11-07
+
+手托入手途径： 仙城工坊 2017-01-03
 
 ![ergodox]({{ site.url }}/assets/custom_keyboards/ergodox.jpg)
 
