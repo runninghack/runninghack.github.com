@@ -1,0 +1,12 @@
+python-dev
+python-pip
+python-singledispatch
+libopencv-dev
+python-opencv
+g++
+libblas-dev
+libblas-doc
+liblapacke-dev
+liblapack-doc
+python-pygments
+python-numpy
