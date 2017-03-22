@@ -10,3 +10,4 @@ liblapacke-dev
 liblapack-doc
 python-pygments
 python-numpy
+linux-headers-generic
