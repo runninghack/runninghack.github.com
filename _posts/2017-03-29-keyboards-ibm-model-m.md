@@ -9,8 +9,8 @@ Bought on:
 - Mar 26, 2017 (Blue lebel)
 
 
-![1]({{ site.url }}/assets/vintage_keyboards/modelm/2.jpg)
+![1]({{ site.url }}/assets/vintage_keyboards/modelm/2.png)
 
-![2]({{ site.url }}/assets/vintage_keyboards/modelm/1.jpg)
+![2]({{ site.url }}/assets/vintage_keyboards/modelm/1.png)
 
 Both are bolt modded. Both are 1391401
