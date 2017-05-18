@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom keyboard： Let's Split
+title: Custom keyboard - Let's Split
 ---
 
 Completion date： 01/31/2017

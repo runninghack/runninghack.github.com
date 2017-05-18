@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Keyboard: Planck
+title: Custom Keyboard - Planck
 ---
 
 Whole keyboard: 影（院长） May, 2016

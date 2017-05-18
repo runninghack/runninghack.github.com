@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keyboard modification: IBM Model M SSK
+title: Keyboard modification - IBM Model M SSK
 ---
 
 

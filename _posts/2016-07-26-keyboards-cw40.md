@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Keyboard: CW40
+title: Custom Keyboard - CW40
 ---
 
 Completion date: 07/26/2016

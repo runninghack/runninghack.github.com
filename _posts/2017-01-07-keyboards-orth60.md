@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Keyboard: Ortholinear 60
+title: Custom Keyboard - Ortholinear 60
 ---
 
 Completion date: 01/07/2017

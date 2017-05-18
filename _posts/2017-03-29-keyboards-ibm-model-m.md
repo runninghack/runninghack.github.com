@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vintage keyboard: IMB Model M
+title: Vintage keyboard - IMB Model M
 ---
 
 Bought on: 

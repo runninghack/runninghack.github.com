@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Keyboard： ErgoDox
+title: Custom Keyboard - ErgoDox
 ---
 
 Finished on： 11/12/2015

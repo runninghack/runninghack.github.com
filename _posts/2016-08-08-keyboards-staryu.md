@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Keyboard: Staryu
+title: Custom Keyboard - Staryu
 ---
 
 Completion date: 08/08/2016

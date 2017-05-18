@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 客制化键盘Build Log： 飞线直列60%键盘
+title: 客制化键盘Build Log - 飞线直列60%键盘
 ---
 
 完成时间： 2017-03-07

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Keyboard: Unifying 84 keys keyboard
+title: Custom Keyboard - Unifying 84 keys keyboard
 ---
 
 Completion date: 02/15/2017
