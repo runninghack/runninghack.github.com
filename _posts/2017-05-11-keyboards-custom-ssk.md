@@ -1,16 +1,31 @@
 ---
 layout: post
-title: Vintage keyboard: IMB Model M
+title: Keyboard modification: IBM Model M SSK
 ---
 
-Bought on: 
 
-- Mar 13, 2017 (Silver label)
-- Mar 26, 2017 (Blue lebel)
+![1]({{ site.url }}/assets/custom_keyboards/ibm_ssk/1.png)
 
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/2.png)
 
-![1]({{ site.url }}/assets/vintage_keyboards/modelm/2.png)
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/3.png)
 
-![2]({{ site.url }}/assets/vintage_keyboards/modelm/1.png)
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/4.png)
 
-Both are bolt modded. Both are 1391401
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/5.png)
+
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/6.png)
+
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/7.png)
+
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/8.png)
+
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/9.png)
+
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/10.png)
+
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/11.png)
+
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/12.png)
+
+![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/13.png)
