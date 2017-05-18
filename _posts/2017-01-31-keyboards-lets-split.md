@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 客制化键盘： Let's Split
+title: Custom keyboard： Let's Split
 ---
 
-完成时间： 2017-01-31
+Completion date： 01/31/2017
 
-PCB入手途径： switchTop 2017-01-04
+PCB： switchTop 01/04/2017
 
 ![lets split]({{ site.url }}/assets/custom_keyboards/lets_split.png)
 
-* Gateron 黄轴
-* SP Grab Bag（垃圾包） DCS 键帽
-* 亚克力外壳
+* Gateron yellow switches
+* SP Grab Bag DCS keycaps
+* Sandwich acrylic case

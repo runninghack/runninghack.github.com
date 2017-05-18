@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 客制化键盘： Planck
+title: Custom Keyboard: Planck
 ---
 
-入手途径： 影（院长） 2016-05
+Whole keyboard: 影（院长） May, 2016
 
 ![planck]({{ site.url }}/assets/custom_keyboards/planck.jpg)
 
-* Gateron 青轴
-* SP DSA 无刻+Grab bag (垃圾包)
-* 铝合金阳极上色
-* 碳纤维定位板
-* 胡桃木手托
+* Gateron blue
+* SP DSA blank+Grab bag 
+* Aluminum case 
+* Carbon fiber plate
+* walnut wristrest

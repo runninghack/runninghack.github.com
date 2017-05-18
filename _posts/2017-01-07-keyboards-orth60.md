@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 客制化键盘： Ortholinear 60
+title: Custom Keyboard: Ortholinear 60
 ---
 
-完成时间： 2017-01-07
+Completion date: 01/07/2017
 
-PCB 入手途径： 符号君 2016-06-28
+PCB： 符号君 06/28/2016
 
 ![Ortholinear 60]({{ site.url }}/assets/custom_keyboards/orth60.jpg)
 
-* Gateron 黄轴
-* SP DSA 无刻
-* Anne Pro外壳（改）
+* Gateron Yellow
+* SP DSA Blank
+* Anne Pro case (modified)

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 客制化键盘： CW40
+title: Custom Keyboard: CW40
 ---
 
-完成时间： 2016-07-26
+Completion date: 07/26/2016
 
-PCB、外壳等入手途径： KTEC 2016-07-21
+PCB and case: [KTEC](https://ktec.io/) 07/21/2016
 
 ![CW40]({{ site.url }}/assets/custom_keyboards/cw40.jpg)
 
-* Gateron 黄轴
-* SP DSA 无刻+ Grab bag (垃圾包)
-* RGB底灯
+* Gateron Yellow
+* SP DSA blanck + Grab bag
+* RGB LEDs

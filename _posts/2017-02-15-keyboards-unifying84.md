@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 客制化键盘： 优联84
+title: Custom Keyboard: Unifying 84 keys keyboard
 ---
 
-完成时间： 2017-02-15
+Completion date: 02/15/2017
 
-PCB入手途径： 贰哥 2016-12-16
+PCB: 贰哥 12/16/2016
 
-![优联84]({{ site.url }}/assets/custom_keyboards/unifying84.jpg)
+![Unifying84]({{ site.url }}/assets/custom_keyboards/unifying84.jpg)
 
-* Gateron 茶轴
-* 优联无线
-* 太豪灰白红键帽
-* XD84塑料外壳
+* Gateron brown
+* Logitech Unifying
+* Tai-hao keycaps
+* XD84 plastic case
