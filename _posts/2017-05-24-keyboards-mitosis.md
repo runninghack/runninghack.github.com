@@ -31,4 +31,6 @@ The receiver
 
 ![finished]({{ site.url }}/assets/custom_keyboards/mitosis/8.JPG)
 
+![layout]({{ site.url }}/assets/custom_keyboards/mitosis/9.png)
+
 Firmwares are compiled and flashed into the four chips (three nrf51822 and one pro micro)
