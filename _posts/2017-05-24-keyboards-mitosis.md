@@ -5,6 +5,8 @@ title: Custom Keyboard - Mitosis
 
 ![1]({{ site.url }}/assets/custom_keyboards/mitosis/1.JPG)
 
+<!--more-->
+
 Let's split keyboard and my new wireless split mitosis keyboard!
 
 ![PCB]({{ site.url }}/assets/custom_keyboards/mitosis/2.PNG)

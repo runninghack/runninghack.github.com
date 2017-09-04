@@ -9,6 +9,8 @@ Steel Case: Alex Jackson 02/05/2017
 
 ![1]({{ site.url }}/assets/custom_keyboards/handwired/1.jpg)
 
+<!--more-->
+
 What it looks like now with some random keycaps
 
 ![2]({{ site.url }}/assets/custom_keyboards/handwired/2.png)

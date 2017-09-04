@@ -3,11 +3,14 @@ layout: post
 title: Custom Keyboard - Orange TKL
 ---
 
+
+![Orange]({{ site.url }}/assets/custom_keyboards/orange/9.png)
+
 Completion date: 08/27/2017
 
-![Orange]({{ site.url }}/assets/custom_keyboards/orange/1.png)
-
 <!--more-->
+
+![Orange]({{ site.url }}/assets/custom_keyboards/orange/1.png)
 
 ![Orange]({{ site.url }}/assets/custom_keyboards/orange/2.png)
 
@@ -23,7 +26,7 @@ Completion date: 08/27/2017
 
 ![Orange]({{ site.url }}/assets/custom_keyboards/orange/8.png)
 
-![Orange]({{ site.url }}/assets/custom_keyboards/orange/9.png)
+
 
 * Kailh White Box Switches, Kailh Pal Blue Box Switches, Outemu Purple Switches
 * Canvas keyset designed by [Mito](https://mitormk.com/canvas-xda/) (Facotory Samples)

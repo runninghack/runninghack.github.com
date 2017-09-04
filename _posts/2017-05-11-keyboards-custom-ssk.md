@@ -6,6 +6,8 @@ title: Keyboard modification - IBM Model M SSK
 
 ![1]({{ site.url }}/assets/custom_keyboards/ibm_ssk/1.jpg)
 
+<!--more-->
+
 ![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/2.png)
 
 ![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/3.png)
