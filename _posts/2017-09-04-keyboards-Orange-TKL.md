@@ -7,6 +7,8 @@ Completion date: 08/27/2017
 
 ![Orange]({{ site.url }}/assets/custom_keyboards/orange/1.png)
 
+<!--more-->
+
 ![Orange]({{ site.url }}/assets/custom_keyboards/orange/2.png)
 
 ![Orange]({{ site.url }}/assets/custom_keyboards/orange/3.png)
