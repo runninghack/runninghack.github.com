@@ -1,78 +1,74 @@
 ---
 layout: post
-title: 客制化键盘Build Log - 飞线直列60%键盘
+title: Build Log - Handwired Ortholinear 60% Keyboard
 ---
 
-完成时间： 2017-03-07
+Completion date: 03/07/2017
 
-外壳入手途径： Alex Jackson 2017-02-05
+Steel Case: Alex Jackson 02/05/2017
 
 ![1]({{ site.url }}/assets/custom_keyboards/handwired/1.jpg)
 
-成品的样子。没凑齐特别合适的键帽，暂时随便配的
+What it looks like now with some random keycaps
 
 ![2]({{ site.url }}/assets/custom_keyboards/handwired/2.png)
 
-外壳很简单，不锈钢定位板和不锈钢底壳。
+Simple steel case and plate
 
 ![3]({{ site.url }}/assets/custom_keyboards/handwired/3.png)
 
-底壳是一块钢板掰弯成这样的。
+The case is bended from a flat steel plate
 
 ![4]({{ site.url }}/assets/custom_keyboards/handwired/4.jpg)
 
-首先利用二极管的长针脚飞线矩阵的行（row）。我在弯曲针脚的时候拿另一根剪下来的针脚竖在那里，绕着弯曲，这样可以控制弯曲的位置和角度。
+Using the long pins of the diodes to form the row of the matrix.
 
 ![5]({{ site.url }}/assets/custom_keyboards/handwired/5.jpg)
 
-行快焊完了。
+Almost done for all rows
 
 ![6]({{ site.url }}/assets/custom_keyboards/handwired/6.jpg)
 
-行全部焊完。注意左侧大键的处理。
+Check the wires on the 2u keys
 
 ![7]({{ site.url }}/assets/custom_keyboards/handwired/7.png)
 
-接下来需要剪一些线，我没有合适的工具，只用尖嘴钳和剪线钳来处理。
+Prepare some wires like these
 
 ![8]({{ site.url }}/assets/custom_keyboards/handwired/8.jpg)
 
-列的焊接方法。
+Soldering the columns.
 
 ![9]({{ site.url }}/assets/custom_keyboards/handwired/9.jpg)
 
-把有母头的线焊在主控（teensy 2.0）上。
+Solder the teensy 2.0
 
 ![10]({{ site.url }}/assets/custom_keyboards/handwired/10.png)
 
-把有公头的线焊在键盘矩阵的行和列上。
-
 ![11]({{ site.url }}/assets/custom_keyboards/handwired/11.jpg)
 
-接下来处理外壳。
+Now let's see what need to do with the case
 
 ![12]({{ site.url }}/assets/custom_keyboards/handwired/12.jpg)
 
-为了防止电路和钢板接触，用电工胶布做一下绝缘。
+Attach some insulation taps to avoid short circuits
 
 ![13]({{ site.url }}/assets/custom_keyboards/handwired/13.jpg)
 
-焊接了一个mini-usb的母头。
+Soldered a mini-usb connector
 
 ![14]({{ site.url }}/assets/custom_keyboards/handwired/14.jpg)
 
-决定把母头焊在这个位置。
-
 ![15]({{ site.url }}/assets/custom_keyboards/handwired/15.jpg)
 
-全部连接起来。
+Connect all the wires
 
 ![16]({{ site.url }}/assets/custom_keyboards/handwired/16.jpg)
 
-线太多了，外壳有点放不下，不过刷入固件（tmk）之后可以用了，测试成功，之后再优化。
+After the firmare base on TMK is programmed to the teensy chip, the board works.
 
 ![17]({{ site.url }}/assets/custom_keyboards/handwired/17.jpg)
 
-这是从前面看的样子，mini-usb母头有点歪。
+Seem not perfect, but I'll improve it later.
 
 To be continued
