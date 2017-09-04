@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Switch Overflow
 tagline:             "Ramiel's Blog"
-description:         '机械键盘DIY/古董键盘收藏.'
+description:         'Making mechanical keyboards / Vintage keyboards collection.'
 #url:                 
 baseurl:             ""
 paginate:            5
@@ -19,7 +19,7 @@ gems: [jekyll-paginate,jekyll-gist]
 author:
   name:              Ramiel
   url:               http://switchoverflow.com
-  email:             zl.ramiel@gmail.com
+  email:             runninghack@gmail.com
 
 # Custom vars
 version:             1.0.0
