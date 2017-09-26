@@ -3,8 +3,8 @@ layout: post
 title: Keyboard modification - IBM Model M SSK
 ---
 
+![1]({{ site.url }}/assets/custom_keyboards/ibm_ssk/14.jpg)
 
-![1]({{ site.url }}/assets/custom_keyboards/ibm_ssk/1.jpg)
 
 <!--more-->
 
@@ -31,3 +31,5 @@ title: Keyboard modification - IBM Model M SSK
 ![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/12.png)
 
 ![2]({{ site.url }}/assets/custom_keyboards/ibm_ssk/13.jpg)
+
+![1]({{ site.url }}/assets/custom_keyboards/ibm_ssk/1.jpg)
