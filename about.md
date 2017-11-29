@@ -4,14 +4,24 @@ title: About Me
 ---
 
 <p class="message">
-  SwitchOverflow.com 建立于2017年3月16日，域名申请于namecheap, 网站使用jekyll+github pages技术进行编辑和发布
   
   SwitchOverflow.com was built on 3/16/2017. The domain name was registered from namecheap. I used jekyll+github pages to generate html pages and host this website.
 </p>
 
-博主Ramiel是一个在美留学的中国学生，目前在美国Washington, D.C. 附近读计算机Ph.D. 
+I’m /u/runninghack on Reddit and senter on GeekHack, a member of FoxLab and Triangle Lab, and a mechanical keyboard enthusiast.  
 
-I, Ramiel, am a Chiense international student in the US. Now I'm pursuing a Ph.D. degree of Computer Science in Washington, D.C. area.
+- Skills: Altium Designer, KiCAD, Adobe Illustrator, C programming
+- Favorite mass produced keyboard: Filco Convertible 2
+- Favorite custom keyboard: the next one
+- Favorite layouts: TKL > Ergodox > Plank > Others
+- Favorite switches: buckling spring > box white > box red > others
+- Likes: wireless, split, low keyboard but high profile case, ergonomic
+- Dislikes: Zeal PC products, 1up products, Topre, Kustom, and all the other overpriced products
+
+## Other hobbies
+
+- Anime,
+- Power metal music
 
 ## Personality: 
 
@@ -22,19 +32,6 @@ I, Ramiel, am a Chiense international student in the US. Now I'm pursuing a Ph.D
 - Perfectionist. (mild) 
 - Geek → Nerd.
 
-## Interested in:
-
-- Machine Learning,
-- Data Mining,
-- NLP,
-- Programming Language Theory,
-- Psychology, 
-- Cognitive Science
-
-## Hobbies
-
-- Mechanical keyboard,
-- ACG
 
 ***
 
